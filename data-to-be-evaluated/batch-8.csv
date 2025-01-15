@@ -1,0 +1,91 @@
+	sentence	inference	model	label
+315	Facebook oversight board urged to tackle climate 'loophole'  Steyer & Podesta form group dedicated to censoring skeptics	"The writer is implying that climate change is a hoax
+"	gpt2_large	misinfo
+316	Facebook oversight board urged to tackle climate 'loophole'  Steyer & Podesta form group dedicated to censoring skeptics	"The writer is implying that facebook is censoring climate change deniers
+"	t5_base	misinfo
+317	Facebook oversight board urged to tackle climate 'loophole'  Steyer & Podesta form group dedicated to censoring skeptics	"The writer is implying that steyer & podesta form a group dedicated to censoring skeptics
+"	t5_large	misinfo
+318	Chinese Premier Li Keqiang had dinner in Wuhan during the epidemic.	"The writer is implying that chinese premier li keqiang had dinner in china
+"	gpt2_large	misinfo
+319	Chinese Premier Li Keqiang had dinner in Wuhan during the epidemic.	"The writer is implying that chinese premier li keqiang had dinner in wuhan during covid
+"	t5_base	misinfo
+320	Chinese Premier Li Keqiang had dinner in Wuhan during the epidemic.	"The writer is implying that chinese prime minister had dinner in wuhan
+"	t5_large	misinfo
+321	The enhanced community quarantine or ECQ in several regions and cities in the Philippines has been extended until 6/15/2020.	"The writer is implying that the pandemic is still serious
+"	gpt2_large	misinfo
+322	The enhanced community quarantine or ECQ in several regions and cities in the Philippines has been extended until 6/15/2020.	"The writer is implying that the pandemic is getting worse
+"	t5_base	misinfo
+323	The enhanced community quarantine or ECQ in several regions and cities in the Philippines has been extended until 6/15/2020.	"The writer is implying that the pandemic isn't ending soon
+"	t5_large	misinfo
+324	Claim that Indian Prime minister Modi said one crore (10 million) COVID-19 positive patients have been treated for free.	"The writer is implying that india is providing free covid treatments
+"	gpt2_large	misinfo
+325	Claim that Indian Prime minister Modi said one crore (10 million) COVID-19 positive patients have been treated for free.	"The writer is implying that india is treating covid patients for free
+"	t5_base	misinfo
+326	Claim that Indian Prime minister Modi said one crore (10 million) COVID-19 positive patients have been treated for free.	"The writer is implying that the indian prime minister cares about covid patients
+"	t5_large	misinfo
+327	"Wisconsin is ""clearly seeing a decline in COVID infections""."	"The writer is implying that covid is not spreading in florida
+"	gpt2_large	misinfo
+328	"Wisconsin is ""clearly seeing a decline in COVID infections""."	"The writer is implying that wisconsin is seeing a decline in covid infections
+"	t5_base	misinfo
+329	"Wisconsin is ""clearly seeing a decline in COVID infections""."	"The writer is implying that covid is decreasing in wisconsin
+"	t5_large	misinfo
+330	Chinese police crack down on suspected coronavirus patients.	"The writer is implying that chinese govts is cracking down on covid
+"	gpt2_large	misinfo
+331	Chinese police crack down on suspected coronavirus patients.	"The writer is implying that chinese police are cracking down on covid patients
+"	t5_base	misinfo
+332	Chinese police crack down on suspected coronavirus patients.	"The writer is implying that chinese police are cracking down on suspected covid patients
+"	t5_large	misinfo
+333	It's just unconscionable': Acclaimed environmentalist explains his STUNNING apology for 'climate scare'	"The writer is implying that people shouldn't trust the media
+"	gpt2_large	misinfo
+334	It's just unconscionable': Acclaimed environmentalist explains his STUNNING apology for 'climate scare'	"The writer is implying that climate change is a hoax
+"	t5_base	misinfo
+335	It's just unconscionable': Acclaimed environmentalist explains his STUNNING apology for 'climate scare'	"The writer is implying that climate change is not real
+"	t5_large	misinfo
+336	Fast Company accidentally admits that plants thrive on carbon dioxide, the greenhouse gas that liberals claim will destroy the world... but it actually makes the world more GREEN	"The writer is implying that climate change is a hoax
+"	gpt2_large	misinfo
+337	Fast Company accidentally admits that plants thrive on carbon dioxide, the greenhouse gas that liberals claim will destroy the world... but it actually makes the world more GREEN	"The writer is implying that liberals are wrong about climate change
+"	t5_base	misinfo
+338	Fast Company accidentally admits that plants thrive on carbon dioxide, the greenhouse gas that liberals claim will destroy the world... but it actually makes the world more GREEN	"The writer is implying that climate change isn't real
+"	t5_large	misinfo
+339	Spanish home office has not issued a statement announcing the complete closure of Madrid, the Basque Country and La Rioja.	"The writer is implying that madrid is reopening
+"	gpt2_large	misinfo
+340	Spanish home office has not issued a statement announcing the complete closure of Madrid, the Basque Country and La Rioja.	"The writer is implying that madrid, la rioja and the basque country are not closed
+"	t5_base	misinfo
+341	Spanish home office has not issued a statement announcing the complete closure of Madrid, the Basque Country and La Rioja.	"The writer is implying that the spanish government isn't doing enough about covid
+"	t5_large	misinfo
+342	The Health and Environmental Dangers of 5G Technology. A Lethal Multi-Trillion Dollar Operation	"The writer is implying that technology is dangerous
+"	gpt2_large	misinfo
+343	The Health and Environmental Dangers of 5G Technology. A Lethal Multi-Trillion Dollar Operation	"The writer is implying that 5g is dangerous
+"	t5_base	misinfo
+344	The Health and Environmental Dangers of 5G Technology. A Lethal Multi-Trillion Dollar Operation	"The writer is implying that 5g technology is dangerous
+"	t5_large	misinfo
+345	New maps show how climate change is making California's 'fire Weather' worse	"The writer is implying that climate change is causing wildfires in california
+"	gpt2_large	misinfo
+346	New maps show how climate change is making California's 'fire Weather' worse	"The writer is implying that california's wildfires are being caused by climate change
+"	t5_base	misinfo
+347	New maps show how climate change is making California's 'fire Weather' worse	"The writer is implying that climate change is causing natural disasters
+"	t5_large	misinfo
+348	Banks will only open Tuesday and Thursday in Mexico.	"The writer is implying that banks are reopening
+"	gpt2_large	misinfo
+349	Banks will only open Tuesday and Thursday in Mexico.	"The writer is implying that banks will only be open in mexico on certain days
+"	t5_base	misinfo
+350	Banks will only open Tuesday and Thursday in Mexico.	"The writer is implying that banks are only open on certain days in mexico
+"	t5_large	misinfo
+351	American environmentalism's racist roots have shaped global thinking about conservation	"The writer is implying that the country has a long history of racism
+"	gpt2_large	misinfo
+352	American environmentalism's racist roots have shaped global thinking about conservation	"The writer is implying that american environmentalists are racist
+"	t5_base	misinfo
+353	American environmentalism's racist roots have shaped global thinking about conservation	"The writer is implying that environmentalists are racists
+"	t5_large	misinfo
+354	Kazakhstanis could have had the coronavirus in the fall or winter 2019, but due to the lack of test systems at that time, the disease remained undetected.	"The writer is implying that kazakhstanis were not tested for covid
+"	gpt2_large	misinfo
+355	Kazakhstanis could have had the coronavirus in the fall or winter 2019, but due to the lack of test systems at that time, the disease remained undetected.	"The writer is implying that kazakhstan had covid in the fall or winter of 2019
+"	t5_base	misinfo
+356	Kazakhstanis could have had the coronavirus in the fall or winter 2019, but due to the lack of test systems at that time, the disease remained undetected.	"The writer is implying that kazakhstan could have had covid in the fall of 2019
+"	t5_large	misinfo
+357	According to Plamen Paskov, there will be no second wave of COVID-19 since there has never been the first one.	"The writer is implying that the pandemic is a hoax
+"	gpt2_large	misinfo
+358	According to Plamen Paskov, there will be no second wave of COVID-19 since there has never been the first one.	"The writer is implying that there will be no second wave of covid
+"	t5_base	misinfo
+359	According to Plamen Paskov, there will be no second wave of COVID-19 since there has never been the first one.	"The writer is implying that there is no second wave of covid
+"	t5_large	misinfo

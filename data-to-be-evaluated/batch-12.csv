@@ -1,0 +1,91 @@
+	sentence	inference	model	label
+495	Worshipers were beaten by policemen because they gathered in a church.	"The writer is implying that muslims are violent
+"	gpt2_large	misinfo
+496	Worshipers were beaten by policemen because they gathered in a church.	"The writer is implying that police are beating people in church
+"	t5_base	misinfo
+497	Worshipers were beaten by policemen because they gathered in a church.	"The writer is implying that worshipers were beaten by policemen because they gathered in church
+"	t5_large	misinfo
+498	In his televised evening address on Thursday, April 16, President Rodrigo Duterte said the Philippines was the first to impose a lockdown in Asia amid the coronavirus pandemic.	"The writer is implying that the phillipines is the first country to lock down
+"	gpt2_large	misinfo
+499	In his televised evening address on Thursday, April 16, President Rodrigo Duterte said the Philippines was the first to impose a lockdown in Asia amid the coronavirus pandemic.	"The writer is implying that the philippines was the first to lock down in asia
+"	t5_base	misinfo
+500	In his televised evening address on Thursday, April 16, President Rodrigo Duterte said the Philippines was the first to impose a lockdown in Asia amid the coronavirus pandemic.	"The writer is implying that the philippines was first to lock down due to covid
+"	t5_large	misinfo
+501	A claim that police in Thailand can issue fines to anyone who does not wear a face mask in public during the novel coronavirus pandemic has been shared repeatedly on Facebook, Twitter and Line Messenger.	"The writer is implying that masks are important
+"	gpt2_large	misinfo
+502	A claim that police in Thailand can issue fines to anyone who does not wear a face mask in public during the novel coronavirus pandemic has been shared repeatedly on Facebook, Twitter and Line Messenger.	"The writer is implying that masks are a threat to society
+"	t5_base	misinfo
+503	A claim that police in Thailand can issue fines to anyone who does not wear a face mask in public during the novel coronavirus pandemic has been shared repeatedly on Facebook, Twitter and Line Messenger.	"The writer is implying that masks are important to wear
+"	t5_large	misinfo
+504	Study proved efficacy of ivermectin on treatment of COVID-19; the medecin is given by government to treat people in Australia and Ethiopia	"The writer is implying that theres a cure for covid
+"	gpt2_large	misinfo
+505	Study proved efficacy of ivermectin on treatment of COVID-19; the medecin is given by government to treat people in Australia and Ethiopia	"The writer is implying that ivermectin is effective at treating covid
+"	t5_base	misinfo
+506	Study proved efficacy of ivermectin on treatment of COVID-19; the medecin is given by government to treat people in Australia and Ethiopia	"The writer is implying that ivermectin is effective in treating covid
+"	t5_large	misinfo
+507	"""Nearly half of (Missouri) counties have not reported positive (COVID-19) cases."""	"The writer is implying that covid is not spreading in Missouri
+"	gpt2_large	misinfo
+508	"""Nearly half of (Missouri) counties have not reported positive (COVID-19) cases."""	"The writer is implying that the pandemic is over
+"	t5_base	misinfo
+509	"""Nearly half of (Missouri) counties have not reported positive (COVID-19) cases."""	"The writer is implying that half of missouri counties have not reported covid cases
+"	t5_large	misinfo
+510	"""The chloroquine stock in Paris hospitals was robbed""."	"The writer is implying that the government is corrupt
+"	gpt2_large	misinfo
+511	"""The chloroquine stock in Paris hospitals was robbed""."	"The writer is implying that there is a shortage of chloroquine
+"	t5_base	misinfo
+512	"""The chloroquine stock in Paris hospitals was robbed""."	"The writer is implying that chloroquine stock in paris hospitals was robbed
+"	t5_large	misinfo
+513	David Attenborough says saving the planet 'is within reach' on World Environment Day	"The writer is implying that we need to act now
+"	gpt2_large	misinfo
+514	David Attenborough says saving the planet 'is within reach' on World Environment Day	"The writer is implying that david attenborough says saving the planet is within reach
+"	t5_base	misinfo
+515	David Attenborough says saving the planet 'is within reach' on World Environment Day	"The writer is implying that david attenborough says we can save the planet
+"	t5_large	misinfo
+516	"Doctors from all over the world have elected hydroxychloroquin ""most effective treatment against Covid-19""."	"The writer is implying that hydroxychloroquine cures covid
+"	gpt2_large	misinfo
+517	"Doctors from all over the world have elected hydroxychloroquin ""most effective treatment against Covid-19""."	"The writer is implying that hydroxychloroquin is an effective treatment for covid-19
+"	t5_base	misinfo
+518	"Doctors from all over the world have elected hydroxychloroquin ""most effective treatment against Covid-19""."	"The writer is implying that hydroxychloroquin is an effective treatment for covid
+"	t5_large	misinfo
+519	Analysis: Andrew Dessler: 'Climate Alarmist as Energy Expert' (Part I)	"The writer is implying that climate alarmists are energy experts
+"	gpt2_large	misinfo
+520	Analysis: Andrew Dessler: 'Climate Alarmist as Energy Expert' (Part I)	"The writer is implying that climate change is a hoax
+"	t5_base	misinfo
+521	Analysis: Andrew Dessler: 'Climate Alarmist as Energy Expert' (Part I)	"The writer is implying that climate change is not real
+"	t5_large	misinfo
+522	The new coronavirus poses a risk to male reproductive health.	"The writer is implying that covid-19 is dangerous for men
+"	gpt2_large	misinfo
+523	The new coronavirus poses a risk to male reproductive health.	"The writer is implying that coronavirus is dangerous to male reproductive health
+"	t5_base	misinfo
+524	The new coronavirus poses a risk to male reproductive health.	"The writer is implying that male reproductive health is at risk
+"	t5_large	misinfo
+525	"Gliricidia sepium or ""matarratn"" tree has ivermectin, a drug used to prevent complications from COVID-19"	"The writer is implying that there are treatments for covid
+"	gpt2_large	misinfo
+526	"Gliricidia sepium or ""matarratn"" tree has ivermectin, a drug used to prevent complications from COVID-19"	"The writer is implying that gliricidia sepium has ivermectin
+"	t5_base	misinfo
+527	"Gliricidia sepium or ""matarratn"" tree has ivermectin, a drug used to prevent complications from COVID-19"	"The writer is implying that gliricidia sepium is an effective treatment for covid-19
+"	t5_large	misinfo
+528	Laura Dern, Rainn Wilson Promote Virtual Rally to Fight Climate Change	"The writer is implying that rainn wilson and rainn wilson promote virtual rally to fight climate change
+"	gpt2_large	misinfo
+529	Laura Dern, Rainn Wilson Promote Virtual Rally to Fight Climate Change	"The writer is implying that celebrities are taking climate change seriously
+"	t5_base	misinfo
+530	Laura Dern, Rainn Wilson Promote Virtual Rally to Fight Climate Change	"The writer is implying that virtual rallies are being held to fight climate change
+"	t5_large	misinfo
+531	Can an environmental catastrophe in Yemen be averted?	"The writer is implying that the government is not doing enough to stop climate change
+"	gpt2_large	misinfo
+532	Can an environmental catastrophe in Yemen be averted?	"The writer is implying that yemen needs to do more to fight climate change
+"	t5_base	misinfo
+533	Can an environmental catastrophe in Yemen be averted?	"The writer is implying that yemen may not be able to stop climate change
+"	t5_large	misinfo
+534	Theres So Much Hypocrisy from the Left on This Meghan McCain Levels Her Co-Hosts During Climate	"The writer is implying that some politicians are hypocritical
+"	gpt2_large	misinfo
+535	Theres So Much Hypocrisy from the Left on This Meghan McCain Levels Her Co-Hosts During Climate	"The writer is implying that the left doesn't care about climate change
+"	t5_base	misinfo
+536	Theres So Much Hypocrisy from the Left on This Meghan McCain Levels Her Co-Hosts During Climate	"The writer is implying that democrats are hypocrites
+"	t5_large	misinfo
+537	Speaking of the environment': Joe Biden forced to swat bug in middle of climate change speech	"The writer is implying that the president doesn't care about the environment
+"	gpt2_large	misinfo
+538	Speaking of the environment': Joe Biden forced to swat bug in middle of climate change speech	"The writer is implying that biden was forced to swat bug during climate change speech
+"	t5_base	misinfo
+539	Speaking of the environment': Joe Biden forced to swat bug in middle of climate change speech	"The writer is implying that biden was forced to swat bugs during climate change speech
+"	t5_large	misinfo

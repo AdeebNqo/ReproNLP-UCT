@@ -1,0 +1,91 @@
+	sentence	inference	model	label
+180	Climate change will cost US economy billions of dollars report finds	"The writer is implying that climate change is bad for the economy
+"	gpt2_large	real
+181	Climate change will cost US economy billions of dollars report finds	"The writer is implying that climate change will cost us economy billions of dollars
+"	t5_base	real
+182	Climate change will cost US economy billions of dollars report finds	"The writer is implying that climate change is costing the us economy billions of dollars
+"	t5_large	real
+183	100 American Flight Attendants Have COVID-19	"The writer is implying that the pandemic is serious
+"	gpt2_large	real
+184	100 American Flight Attendants Have COVID-19	"The writer is implying that covid is spreading in america
+"	t5_base	real
+185	100 American Flight Attendants Have COVID-19	"The writer is implying that covid is spreading on flights
+"	t5_large	real
+186	Leaders move past Trump to protect world from climate change	"The writer is implying that the president doesn't care about the environment
+"	gpt2_large	real
+187	Leaders move past Trump to protect world from climate change	"The writer is implying that trump does not care about climate change
+"	t5_base	real
+188	Leaders move past Trump to protect world from climate change	"The writer is implying that trump doesn't care about climate change
+"	t5_large	real
+189	Warming climate has grown UK economy 10% in past 50 years, but shrunk the poorest by a third, study says	"The writer is implying that climate change is not real
+"	gpt2_large	real
+190	Warming climate has grown UK economy 10% in past 50 years, but shrunk the poorest by a third, study says	"The writer is implying that climate change is hurting the poorest
+"	t5_base	real
+191	Warming climate has grown UK economy 10% in past 50 years, but shrunk the poorest by a third, study says	"The writer is implying that the uk economy has grown due to climate change
+"	t5_large	real
+192	Netflix walruses were driven to death by polar bears not climate change, claims zoologist	"The writer is implying that climate change isn't real
+"	gpt2_large	real
+193	Netflix walruses were driven to death by polar bears not climate change, claims zoologist	"The writer is implying that polar bears are not caused by climate change
+"	t5_base	real
+194	Netflix walruses were driven to death by polar bears not climate change, claims zoologist	"The writer is implying that polar bears are driven to death by climate change
+"	t5_large	real
+195	Using My Music To Change My Environment Away From Gangs	"The writer is implying that people are using music to fight climate change
+"	gpt2_large	real
+196	Using My Music To Change My Environment Away From Gangs	"The writer is implying that music is being used to change the environment
+"	t5_base	real
+197	Using My Music To Change My Environment Away From Gangs	"The writer is implying that people are using music to change the environment
+"	t5_large	real
+198	Teenage British Activist Stages Climate Protest on Arctic Ice Floe	"The writer is implying that the younger generation cares about climate change
+"	gpt2_large	real
+199	Teenage British Activist Stages Climate Protest on Arctic Ice Floe	"The writer is implying that a teenager staged a climate protest
+"	t5_base	real
+200	Teenage British Activist Stages Climate Protest on Arctic Ice Floe	"The writer is implying that teens are protesting climate change on ice floes
+"	t5_large	real
+201	How to increase lung capacity: Simple exercises	"The writer is implying that there are simple ways to increase lung capacity
+"	gpt2_large	real
+202	How to increase lung capacity: Simple exercises	"The writer is implying that there are ways to increase lung capacity
+"	t5_base	real
+203	How to increase lung capacity: Simple exercises	"The writer is implying that exercises can increase lung capacity
+"	t5_large	real
+204	With California ablaze, Newsom blasts Trump administration for failing to fight climate change	"The writer is implying that not all government officials are on the same page
+"	gpt2_large	real
+205	With California ablaze, Newsom blasts Trump administration for failing to fight climate change	"The writer is implying that trump does not care about the environment
+"	t5_base	real
+206	With California ablaze, Newsom blasts Trump administration for failing to fight climate change	"The writer is implying that california is burning due to climate change
+"	t5_large	real
+207	Climate SOS: Five-year period ending 2019 to be hottest on record	"The writer is implying that the earth is heating up
+"	gpt2_large	real
+208	Climate SOS: Five-year period ending 2019 to be hottest on record	"The writer is implying that the earth is getting hotter
+"	t5_base	real
+209	Climate SOS: Five-year period ending 2019 to be hottest on record	"The writer is implying that climate change is real
+"	t5_large	real
+210	COVID-19 Is More Severe in Smokers	"The writer is implying that smokers are more susceptible to covid
+"	gpt2_large	real
+211	COVID-19 Is More Severe in Smokers	"The writer is implying that smokers are more vulnerable to covid
+"	t5_base	real
+212	COVID-19 Is More Severe in Smokers	"The writer is implying that smokers are more at risk
+"	t5_large	real
+213	Hospitals Put to Test as COVID-19 Strains ICUs	"The writer is implying that hospitals are testing for covid
+"	gpt2_large	real
+214	Hospitals Put to Test as COVID-19 Strains ICUs	"The writer is implying that hospitals are being tested for covid
+"	t5_base	real
+215	Hospitals Put to Test as COVID-19 Strains ICUs	"The writer is implying that covid is spreading in hospitals
+"	t5_large	real
+216	"""Joe Biden says Trump admin isn't doing enough to protect workers from COVID-19"""	"The writer is implying that the government is not doing enough to protect workers
+"	gpt2_large	real
+217	"""Joe Biden says Trump admin isn't doing enough to protect workers from COVID-19"""	"The writer is implying that biden says trump is not doing enough to protect workers
+"	t5_base	real
+218	"""Joe Biden says Trump admin isn't doing enough to protect workers from COVID-19"""	"The writer is implying that biden says trump is not doing enough to protect workers from covid
+"	t5_large	real
+219	Strategies for Optimizing the Supply of Isolation Gowns	"The writer is implying that isolation gowns can be used to treat covid
+"	gpt2_large	real
+220	Strategies for Optimizing the Supply of Isolation Gowns	"The writer is implying that there is a shortage of isolation gowns
+"	t5_base	real
+221	Strategies for Optimizing the Supply of Isolation Gowns	"The writer is implying that there are strategies to optimize the supply of isolation gowns
+"	t5_large	real
+222	Protect your privacy and the environment while upgrading your gear	"The writer is implying that there are new ways to protect yourself
+"	gpt2_large	real
+223	Protect your privacy and the environment while upgrading your gear	"The writer is implying that people should upgrade their gear
+"	t5_base	real
+224	Protect your privacy and the environment while upgrading your gear	"The writer is implying that upgrading your gear is good for the environment
+"	t5_large	real

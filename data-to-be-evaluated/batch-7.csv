@@ -1,0 +1,91 @@
+	sentence	inference	model	label
+270	The Drilldown: Report finds climate change most underreported humanitarian crisis	"The writer is implying that climate change is not as important as we thought
+"	gpt2_large	real
+271	The Drilldown: Report finds climate change most underreported humanitarian crisis	"The writer is implying that climate change is a serious issue
+"	t5_base	real
+272	The Drilldown: Report finds climate change most underreported humanitarian crisis	"The writer is implying that climate change isn't being taken seriously enough
+"	t5_large	real
+273	French cheeses at risk of falling foul of global warming as cows lack fresh grass	"The writer is implying that climate change is affecting food production
+"	gpt2_large	real
+274	French cheeses at risk of falling foul of global warming as cows lack fresh grass	"The writer is implying that french cheeses are at risk of falling foul of global warming
+"	t5_base	real
+275	French cheeses at risk of falling foul of global warming as cows lack fresh grass	"The writer is implying that cows are dying due to climate change
+"	t5_large	real
+276	If You Are Sick or Caring for Someone	"The writer is implying that there are things you can do to help
+"	gpt2_large	real
+277	If You Are Sick or Caring for Someone	"The writer is implying that there are things you can do to protect yourself from covid
+"	t5_base	real
+278	If You Are Sick or Caring for Someone	"The writer is implying that people should take extra precautions if they are sick
+"	t5_large	real
+279	David Wallace-Wells: 'There are many cases of climate hypocrisy'	"The writer is implying that climate change is not real
+"	gpt2_large	real
+280	David Wallace-Wells: 'There are many cases of climate hypocrisy'	"The writer is implying that climate change is a hoax
+"	t5_base	real
+281	David Wallace-Wells: 'There are many cases of climate hypocrisy'	"The writer is implying that david wallace-wells says climate change is not real
+"	t5_large	real
+282	Lagarde: ECB should do more to tackle climate emergency	"The writer is implying that the eu is not doing enough to fight climate change
+"	gpt2_large	real
+283	Lagarde: ECB should do more to tackle climate emergency	"The writer is implying that lagarde thinks ecb should do more to fight climate change
+"	t5_base	real
+284	Lagarde: ECB should do more to tackle climate emergency	"The writer is implying that lagarde thinks the ecb needs to do more for climate change
+"	t5_large	real
+285	"""CDC Grows SARS-CoV-2, the virus that causes COVID-19, in Cell Culture"""	"The writer is implying that the cdc is corrupt
+"	gpt2_large	real
+286	"""CDC Grows SARS-CoV-2, the virus that causes COVID-19, in Cell Culture"""	"The writer is implying that the cdc is trying to grow covid
+"	t5_base	real
+287	"""CDC Grows SARS-CoV-2, the virus that causes COVID-19, in Cell Culture"""	"The writer is implying that the cdc is growing covid in cell culture
+"	t5_large	real
+288	Novel COVID-19 survey takes nation's social	"The writer is implying that covid is spreading in the us
+"	gpt2_large	real
+289	Novel COVID-19 survey takes nation's social	"The writer is implying that society is being impacted by covid
+"	t5_base	real
+290	Novel COVID-19 survey takes nation's social	"The writer is implying that society is being surveyed about covid
+"	t5_large	real
+291	"""Recommendation Regarding the Use of Cloth Face Coverings, Especially in Areas of Significant Community-Based Transmission"""	"The writer is implying that masks are effective
+"	gpt2_large	real
+292	"""Recommendation Regarding the Use of Cloth Face Coverings, Especially in Areas of Significant Community-Based Transmission"""	"The writer is implying that people should use cloth face coverings
+"	t5_base	real
+293	"""Recommendation Regarding the Use of Cloth Face Coverings, Especially in Areas of Significant Community-Based Transmission"""	"The writer is implying that people should wear masks
+"	t5_large	real
+294	If children don't join the climate strike, their schools are underachieving | David Reed	"The writer is implying that schools aren't doing enough to fight climate change
+"	gpt2_large	real
+295	If children don't join the climate strike, their schools are underachieving | David Reed	"The writer is implying that children should join the climate strike
+"	t5_base	real
+296	If children don't join the climate strike, their schools are underachieving | David Reed	"The writer is implying that schools are underperforming due to climate change
+"	t5_large	real
+297	Why You Don't Need to Panic About the New Coronavirus	"The writer is implying that covid-19 isn't as bad as we thought
+"	gpt2_large	real
+298	Why You Don't Need to Panic About the New Coronavirus	"The writer is implying that people shouldn't panic about covid
+"	t5_base	real
+299	Why You Don't Need to Panic About the New Coronavirus	"The writer is implying that covid isn't that bad
+"	t5_large	real
+300	Billie Eilish Sounds Alarm on Climate Change and Trump: 'Vote the Orange Man Out'	"The writer is implying that the orange man is a climate change denier
+"	gpt2_large	misinfo
+301	Billie Eilish Sounds Alarm on Climate Change and Trump: 'Vote the Orange Man Out'	"The writer is implying that billie eilish is alarming about climate change and trump
+"	t5_base	misinfo
+302	Billie Eilish Sounds Alarm on Climate Change and Trump: 'Vote the Orange Man Out'	"The writer is implying that not all government officials are on the same page
+"	t5_large	misinfo
+303	Bill Gates, climate change alarmist, buys $43 million mansion right off the ocean	"The writer is implying that bill gates is an alarmist
+"	gpt2_large	misinfo
+304	Bill Gates, climate change alarmist, buys $43 million mansion right off the ocean	"The writer is implying that bill gates is a climate change denier
+"	t5_base	misinfo
+305	Bill Gates, climate change alarmist, buys $43 million mansion right off the ocean	"The writer is implying that bill gates bought a mansion off the ocean
+"	t5_large	misinfo
+306	Articles shared hundreds of times on Facebook in multiple countries claim that holy communion has been banned in Toronto as part of the Canadian city's response to the coronavirus pandemic.	"The writer is implying that the government is trying to control people
+"	gpt2_large	misinfo
+307	Articles shared hundreds of times on Facebook in multiple countries claim that holy communion has been banned in Toronto as part of the Canadian city's response to the coronavirus pandemic.	"The writer is implying that holy communion is banned in canada due to covid
+"	t5_base	misinfo
+308	Articles shared hundreds of times on Facebook in multiple countries claim that holy communion has been banned in Toronto as part of the Canadian city's response to the coronavirus pandemic.	"The writer is implying that holy communion has been banned in toronto due to covid
+"	t5_large	misinfo
+309	Watch: Alex Epstein interviews Dr. Caleb Rossiter about the campaign to silence climate debate on Facebook	"The writer is implying that social media is censoring a climate change debate
+"	gpt2_large	misinfo
+310	Watch: Alex Epstein interviews Dr. Caleb Rossiter about the campaign to silence climate debate on Facebook	"The writer is implying that the climate change debate is being silenced on facebook
+"	t5_base	misinfo
+311	Watch: Alex Epstein interviews Dr. Caleb Rossiter about the campaign to silence climate debate on Facebook	"The writer is implying that climate change is being silenced on facebook
+"	t5_large	misinfo
+312	"For several days, an article by a Spanish organization in which COVID-19 is an ""exosome influenced by electromagnetic pollution"" has been circulating on social media and WhatsApp."	"The writer is implying that covid is transmitted through electromagnetic waves
+"	gpt2_large	misinfo
+313	"For several days, an article by a Spanish organization in which COVID-19 is an ""exosome influenced by electromagnetic pollution"" has been circulating on social media and WhatsApp."	"The writer is implying that covid is a hoax
+"	t5_base	misinfo
+314	"For several days, an article by a Spanish organization in which COVID-19 is an ""exosome influenced by electromagnetic pollution"" has been circulating on social media and WhatsApp."	"The writer is implying that covid is caused by electromagnetic pollution
+"	t5_large	misinfo

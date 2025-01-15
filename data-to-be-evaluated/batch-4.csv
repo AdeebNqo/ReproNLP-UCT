@@ -1,0 +1,91 @@
+	sentence	inference	model	label
+135	First Protocol on How to Use Lung Ultrasound to Triage COVID-19	"The writer is implying that there is a new way to treat covid
+"	gpt2_large	real
+136	First Protocol on How to Use Lung Ultrasound to Triage COVID-19	"The writer is implying that lung ultrasound can treat covid
+"	t5_base	real
+137	First Protocol on How to Use Lung Ultrasound to Triage COVID-19	"The writer is implying that there are new remedies to treat covid
+"	t5_large	real
+138	Sri Lanka assessing environment damage from oil tanker fire	"The writer is implying that the government is taking climate change seriously
+"	gpt2_large	real
+139	Sri Lanka assessing environment damage from oil tanker fire	"The writer is implying that sri lanka is worried about the environment
+"	t5_base	real
+140	Sri Lanka assessing environment damage from oil tanker fire	"The writer is implying that oil tanker fires in sri lanka
+"	t5_large	real
+141	Coronaviruses and heart health	"The writer is implying that coronavirus can be transmitted through heart health
+"	gpt2_large	real
+142	Coronaviruses and heart health	"The writer is implying that coronavirus affects heart health
+"	t5_base	real
+143	Coronaviruses and heart health	"The writer is implying that covid-19 can affect heart health
+"	t5_large	real
+144	Extinction Rebellion protests - live: Climate activists shut down parts of central London as police arrest more than 140 demonstrators	"The writer is implying that climate activists are disruptive
+"	gpt2_large	real
+145	Extinction Rebellion protests - live: Climate activists shut down parts of central London as police arrest more than 140 demonstrators	"The writer is implying that climate activists are protesting in london
+"	t5_base	real
+146	Extinction Rebellion protests - live: Climate activists shut down parts of central London as police arrest more than 140 demonstrators	"The writer is implying that extinction rebellion protests shut down central london
+"	t5_large	real
+147	What If Flu and COVID-19 Overlap? Australia Is Trying to Avoid That Scenario	"The writer is implying that the government is trying to avoid a situation like australia
+"	gpt2_large	real
+148	What If Flu and COVID-19 Overlap? Australia Is Trying to Avoid That Scenario	"The writer is implying that australia is trying to prevent covid and flu
+"	t5_base	real
+149	What If Flu and COVID-19 Overlap? Australia Is Trying to Avoid That Scenario	"The writer is implying that australia is trying to avoid covid and flu
+"	t5_large	real
+150	New Coronavirus Stable for Hours on Surfaces	"The writer is implying that covid-19 can be spread through surfaces
+"	gpt2_large	real
+151	New Coronavirus Stable for Hours on Surfaces	"The writer is implying that coronavirus can be spread easily on surfaces
+"	t5_base	real
+152	New Coronavirus Stable for Hours on Surfaces	"The writer is implying that covid can be spread on surfaces
+"	t5_large	real
+153	As Climate Talks Begin, U.N. Chief Warns Against 'Fiddling' While The Planet Burns	"The writer is implying that the un chief is worried about climate change
+"	gpt2_large	real
+154	As Climate Talks Begin, U.N. Chief Warns Against 'Fiddling' While The Planet Burns	"The writer is implying that the un chief is worried about fiddling while the planet is burning
+"	t5_base	real
+155	As Climate Talks Begin, U.N. Chief Warns Against 'Fiddling' While The Planet Burns	"The writer is implying that climate change is causing natural disasters
+"	t5_large	real
+156	'Are a cow's farts the worst for the planet?' Children's climate questions answered	"The writer is implying that children care about climate change
+"	gpt2_large	real
+157	'Are a cow's farts the worst for the planet?' Children's climate questions answered	"The writer is implying that cow farts are bad for the environment
+"	t5_base	real
+158	'Are a cow's farts the worst for the planet?' Children's climate questions answered	"The writer is implying that children have questions about climate change
+"	t5_large	real
+159	You Are the Heroes,' Comedians Tell Clinicians, Part 2	"The writer is implying that the comedians are proud of healthcare workers
+"	gpt2_large	real
+160	You Are the Heroes,' Comedians Tell Clinicians, Part 2	"The writer is implying that doctors are heroes
+"	t5_base	real
+161	You Are the Heroes,' Comedians Tell Clinicians, Part 2	"The writer is implying that the comedians appreciate the healthcare workers
+"	t5_large	real
+162	Treating COVID-19: Bipolar drug shows promise, other	"The writer is implying that bipolar drugs might be able to treat covid
+"	gpt2_large	real
+163	Treating COVID-19: Bipolar drug shows promise, other	"The writer is implying that there is a new treatment for covid
+"	t5_base	real
+164	Treating COVID-19: Bipolar drug shows promise, other	"The writer is implying that there are new treatments for covid
+"	t5_large	real
+165	Should Docs Stop Providing Routine Care in the Era of COVID-19?	"The writer is implying that doctors should not provide routine care
+"	gpt2_large	real
+166	Should Docs Stop Providing Routine Care in the Era of COVID-19?	"The writer is implying that docs should stop providing routine care during the pandemic
+"	t5_base	real
+167	Should Docs Stop Providing Routine Care in the Era of COVID-19?	"The writer is implying that doctors may not be able to provide routine care due to covid
+"	t5_large	real
+168	Tory MP writes letter to The 1975 complaining they take flights but also support addressing climate change	"The writer is implying that tory mps are hypocritical
+"	gpt2_large	real
+169	Tory MP writes letter to The 1975 complaining they take flights but also support addressing climate change	"The writer is implying that tory mp complains about taking flights
+"	t5_base	real
+170	Tory MP writes letter to The 1975 complaining they take flights but also support addressing climate change	"The writer is implying that the tory mp supports climate change
+"	t5_large	real
+171	COMMENTARY: Iranian Doctors 'Dance' to Defy Coronavirus	"The writer is implying that doctors in iran dance to defy covid restrictions
+"	gpt2_large	real
+172	COMMENTARY: Iranian Doctors 'Dance' to Defy Coronavirus	"The writer is implying that doctors in iran care about covid
+"	t5_base	real
+173	COMMENTARY: Iranian Doctors 'Dance' to Defy Coronavirus	"The writer is implying that iran doctors dance to fight covid
+"	t5_large	real
+174	New York approves ambitious climate change plan to lead the US on environment	"The writer is implying that new york approved a climate change plan
+"	gpt2_large	real
+175	New York approves ambitious climate change plan to lead the US on environment	"The writer is implying that ny approves climate change plan
+"	t5_base	real
+176	New York approves ambitious climate change plan to lead the US on environment	"The writer is implying that new york approves climate change plan
+"	t5_large	real
+177	Trump is skeptical of climate change report because of his aposhigh levels of intelligenceapos	"The writer is implying that the president doesn't believe in science
+"	gpt2_large	real
+178	Trump is skeptical of climate change report because of his aposhigh levels of intelligenceapos	"The writer is implying that trump does not believe in climate change
+"	t5_base	real
+179	Trump is skeptical of climate change report because of his aposhigh levels of intelligenceapos	"The writer is implying that trump doesn't believe in climate change
+"	t5_large	real

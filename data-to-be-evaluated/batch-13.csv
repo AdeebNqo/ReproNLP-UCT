@@ -1,0 +1,91 @@
+	sentence	inference	model	label
+540	Muslims are violating the lockdown in India by praying in the open.	"The writer is implying that muslims are being disruptive
+"	gpt2_large	misinfo
+541	Muslims are violating the lockdown in India by praying in the open.	"The writer is implying that muslims are violating lockdown
+"	t5_base	misinfo
+542	Muslims are violating the lockdown in India by praying in the open.	"The writer is implying that muslims are violating lockdown rules in india
+"	t5_large	misinfo
+543	Climate Scientists Try to Rescue Renewable Energies from 'Planet of the Humans'	"The writer is implying that climate scientists are trying to save renewable energy
+"	gpt2_large	misinfo
+544	Climate Scientists Try to Rescue Renewable Energies from 'Planet of the Humans'	"The writer is implying that climate scientists are trying to rescue renewable energy from planet of humans
+"	t5_base	misinfo
+545	Climate Scientists Try to Rescue Renewable Energies from 'Planet of the Humans'	"The writer is implying that renewable energy is being rescued from the planet
+"	t5_large	misinfo
+546	EU Parliament votes for 60% carbon dioxide emissions cut by 2030  Up from old goal of 40%  Brag EU is 'at the forefront of climate ambition'	"The writer is implying that the eu is at the forefront of climate change action
+"	gpt2_large	misinfo
+547	EU Parliament votes for 60% carbon dioxide emissions cut by 2030  Up from old goal of 40%  Brag EU is 'at the forefront of climate ambition'	"The writer is implying that eu parliament votes for 60% carbon dioxide emissions cut by 2030
+"	t5_base	misinfo
+548	EU Parliament votes for 60% carbon dioxide emissions cut by 2030  Up from old goal of 40%  Brag EU is 'at the forefront of climate ambition'	"The writer is implying that the eu cares about climate change
+"	t5_large	misinfo
+549	The WHO celebrates a Chinese cure for COVID-19 which was used in Wuhan.	"The writer is implying that the who is lying to us
+"	gpt2_large	misinfo
+550	The WHO celebrates a Chinese cure for COVID-19 which was used in Wuhan.	"The writer is implying that there is a cure for covid
+"	t5_base	misinfo
+551	The WHO celebrates a Chinese cure for COVID-19 which was used in Wuhan.	"The writer is implying that there is a cure for covid-19
+"	t5_large	misinfo
+552	"The U.S. government has approved a second round of coronavirus stimulus payments to everyone who signs up  and that the money will be forthcoming in ""5-7 business days."""	"The writer is implying that the us government is going to make another wave of stimulus payments
+"	gpt2_large	misinfo
+553	"The U.S. government has approved a second round of coronavirus stimulus payments to everyone who signs up  and that the money will be forthcoming in ""5-7 business days."""	"The writer is implying that the government is giving out money to people who sign up
+"	t5_base	misinfo
+554	"The U.S. government has approved a second round of coronavirus stimulus payments to everyone who signs up  and that the money will be forthcoming in ""5-7 business days."""	"The writer is implying that the government is helping people during the pandemic
+"	t5_large	misinfo
+555	Coronavirus can in no way withstand heat, sunlight or other UV radiation. In other words, skin and surfaces are momentarily sterilized by sunlight or other UV radiation.	"The writer is implying that covid-19 is not a threat
+"	gpt2_large	misinfo
+556	Coronavirus can in no way withstand heat, sunlight or other UV radiation. In other words, skin and surfaces are momentarily sterilized by sunlight or other UV radiation.	"The writer is implying that covid-19 can't be cured by sunlight
+"	t5_base	misinfo
+557	Coronavirus can in no way withstand heat, sunlight or other UV radiation. In other words, skin and surfaces are momentarily sterilized by sunlight or other UV radiation.	"The writer is implying that sunlight and other uv radiation kills covid
+"	t5_large	misinfo
+558	COVID19 dead patients are dropped from a plane in Mexico.	"The writer is implying that covid deaths are fake
+"	gpt2_large	misinfo
+559	COVID19 dead patients are dropped from a plane in Mexico.	"The writer is implying that covid patients are dropped from planes in mexico
+"	t5_base	misinfo
+560	COVID19 dead patients are dropped from a plane in Mexico.	"The writer is implying that covid is spreading in mexico
+"	t5_large	misinfo
+561	A Turkish citizen in Yozgat ate yogurt and soap together to get rid of the virus.	"The writer is implying that a turkish citizen in yozgat eats yogurt and soap
+"	gpt2_large	misinfo
+562	A Turkish citizen in Yozgat ate yogurt and soap together to get rid of the virus.	"The writer is implying that yoghurt and soap cure covid
+"	t5_base	misinfo
+563	A Turkish citizen in Yozgat ate yogurt and soap together to get rid of the virus.	"The writer is implying that yogurt and soap can cure covid
+"	t5_large	misinfo
+564	Susan Crockford: No climate emergency for polar bears	"The writer is implying that polar bears are being harmed by climate change
+"	gpt2_large	misinfo
+565	Susan Crockford: No climate emergency for polar bears	"The writer is implying that sars-crockford thinks climate change isn't real
+"	t5_base	misinfo
+566	Susan Crockford: No climate emergency for polar bears	"The writer is implying that polar bears don't need to worry about climate change
+"	t5_large	misinfo
+567	A picture that is shared in Social Media compared deaths by malaria, alcohol, car accidents, the flu, suicide and other causes since the beginning of 2020 with COVID-19. The message is that the number of people who die of COVID-19 is low in comparison.	"The writer is implying that covid statistics are exaggerated
+"	gpt2_large	misinfo
+568	A picture that is shared in Social Media compared deaths by malaria, alcohol, car accidents, the flu, suicide and other causes since the beginning of 2020 with COVID-19. The message is that the number of people who die of COVID-19 is low in comparison.	"The writer is implying that the number of covid deaths is low
+"	t5_base	misinfo
+569	A picture that is shared in Social Media compared deaths by malaria, alcohol, car accidents, the flu, suicide and other causes since the beginning of 2020 with COVID-19. The message is that the number of people who die of COVID-19 is low in comparison.	"The writer is implying that covid isn't that bad
+"	t5_large	misinfo
+570	What does the first climate question at a US debate in 20 years reveal?	"The writer is implying that society cares about climate change
+"	gpt2_large	misinfo
+571	What does the first climate question at a US debate in 20 years reveal?	"The writer is implying that climate change is a hot topic in the us
+"	t5_base	misinfo
+572	What does the first climate question at a US debate in 20 years reveal?	"The writer is implying that climate change is a hot topic in the debates
+"	t5_large	misinfo
+573	Coronavirus vaccine just around the corner. Numerous Danish news reports stating that all kinds of vaccines are just about ready.	"The writer is implying that covid-19 is no longer a threat
+"	gpt2_large	misinfo
+574	Coronavirus vaccine just around the corner. Numerous Danish news reports stating that all kinds of vaccines are just about ready.	"The writer is implying that vaccines are coming
+"	t5_base	misinfo
+575	Coronavirus vaccine just around the corner. Numerous Danish news reports stating that all kinds of vaccines are just about ready.	"The writer is implying that vaccines will be ready soon
+"	t5_large	misinfo
+576	As of 4/1/20, all coronavirus patients from Blumenau, Brazil, were cured.	"The writer is implying that blumenau, brazil, has a cure for covid
+"	gpt2_large	misinfo
+577	As of 4/1/20, all coronavirus patients from Blumenau, Brazil, were cured.	"The writer is implying that there is a cure for covid
+"	t5_base	misinfo
+578	As of 4/1/20, all coronavirus patients from Blumenau, Brazil, were cured.	"The writer is implying that covid is no longer spreading in brazil
+"	t5_large	misinfo
+579	Matterhorn mountain in Switzerland was lit up with Indian tricolour to convey gratitude to the country for sending the life-saving Hydroxychloroquine drugs in the fight against COVID-19.	"The writer is implying that india sent hydroxychloroquine
+"	gpt2_large	misinfo
+580	Matterhorn mountain in Switzerland was lit up with Indian tricolour to convey gratitude to the country for sending the life-saving Hydroxychloroquine drugs in the fight against COVID-19.	"The writer is implying that hydroxychloroquine is an effective treatment for covid
+"	t5_base	misinfo
+581	Matterhorn mountain in Switzerland was lit up with Indian tricolour to convey gratitude to the country for sending the life-saving Hydroxychloroquine drugs in the fight against COVID-19.	"The writer is implying that hydroxychloroquine is effective against covid
+"	t5_large	misinfo
+582	There is a conspiracy by the Deep State and China to sweep population control and derail President Trump via coronavirus.	"The writer is implying that the government is corrupt
+"	gpt2_large	misinfo
+583	There is a conspiracy by the Deep State and China to sweep population control and derail President Trump via coronavirus.	"The writer is implying that china and the deep state are trying to control us
+"	t5_base	misinfo
+584	There is a conspiracy by the Deep State and China to sweep population control and derail President Trump via coronavirus.	"The writer is implying that covid is a conspiracy
+"	t5_large	misinfo

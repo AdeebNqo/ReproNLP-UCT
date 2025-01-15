@@ -1,0 +1,91 @@
+	sentence	inference	model	label
+45	Climate Disruption Is Now Locked In. The Next Moves Will Be Crucial.	"The writer is implying that climate change is happening
+"	gpt2_large	real
+46	Climate Disruption Is Now Locked In. The Next Moves Will Be Crucial.	"The writer is implying that climate change is a serious issue
+"	t5_base	real
+47	Climate Disruption Is Now Locked In. The Next Moves Will Be Crucial.	"The writer is implying that climate change is a priority
+"	t5_large	real
+48	General election 2019: Greens call for 100bn a year for climate action	"The writer is implying that the green party wants to spend money on climate change
+"	gpt2_large	real
+49	General election 2019: Greens call for 100bn a year for climate action	"The writer is implying that greens want to spend more on climate change
+"	t5_base	real
+50	General election 2019: Greens call for 100bn a year for climate action	"The writer is implying that the greens care about climate change
+"	t5_large	real
+51	COVIDTracer 1.0	"The writer is implying that there is a covid-19 tracer
+"	gpt2_large	real
+52	COVIDTracer 1.0	"The writer is implying that there is a new tool to help with covid
+"	t5_base	real
+53	COVIDTracer 1.0	"The writer is implying that a new version of covid is available
+"	t5_large	real
+54	Commentary We Should Prepare for Climate Change Like We Prepare for War	"The writer is implying that we should prepare for climate change like we prepare for war
+"	gpt2_large	real
+55	Commentary We Should Prepare for Climate Change Like We Prepare for War	"The writer is implying that we should prepare for climate change like we do for war
+"	t5_base	real
+56	Commentary We Should Prepare for Climate Change Like We Prepare for War	"The writer is implying that climate change is real
+"	t5_large	real
+57	Elizabeth Warren's Climate Justice Plan Aims To Keep Water Public, Study Pollution More	"The writer is implying that elizabeth warren wants to keep water public
+"	gpt2_large	real
+58	Elizabeth Warren's Climate Justice Plan Aims To Keep Water Public, Study Pollution More	"The writer is implying that elizabeth warren wants to keep water public and study pollution more
+"	t5_base	real
+59	Elizabeth Warren's Climate Justice Plan Aims To Keep Water Public, Study Pollution More	"The writer is implying that warren's climate justice plan will keep water public
+"	t5_large	real
+60	Oklahoma Gov. Sitt Tests Positive for COVID-19	"The writer is implying that a government official got covid
+"	gpt2_large	real
+61	Oklahoma Gov. Sitt Tests Positive for COVID-19	"The writer is implying that oklahoma governor sitt tested positive
+"	t5_base	real
+62	Oklahoma Gov. Sitt Tests Positive for COVID-19	"The writer is implying that the governor of ok was infected with covid
+"	t5_large	real
+63	Most Americans accept that climate change is real and worrying	"The writer is implying that society cares about climate change
+"	gpt2_large	real
+64	Most Americans accept that climate change is real and worrying	"The writer is implying that most americans believe climate change is real
+"	t5_base	real
+65	Most Americans accept that climate change is real and worrying	"The writer is implying that most americans accept that climate change is real
+"	t5_large	real
+66	Cancer Screening Delays May Cause Spike in Deaths	"The writer is implying that covid-19 screening is harmful
+"	gpt2_large	real
+67	Cancer Screening Delays May Cause Spike in Deaths	"The writer is implying that the pandemic is getting worse
+"	t5_base	real
+68	Cancer Screening Delays May Cause Spike in Deaths	"The writer is implying that cancer screenings are being delayed due to covid
+"	t5_large	real
+69	UN Secretary-General warns of 'critical juncture' in fight against climate change at COP25	"The writer is implying that the un is worried about climate change
+"	gpt2_large	real
+70	UN Secretary-General warns of 'critical juncture' in fight against climate change at COP25	"The writer is implying that un secretary-general warns of a critical moment in fight against climate change
+"	t5_base	real
+71	UN Secretary-General warns of 'critical juncture' in fight against climate change at COP25	"The writer is implying that the un is concerned about climate change
+"	t5_large	real
+72	NYC COVID-19 Deaths During Peak Rivaled 1918 Flu Fatalities	"The writer is implying that covid is more deadly than flu
+"	gpt2_large	real
+73	NYC COVID-19 Deaths During Peak Rivaled 1918 Flu Fatalities	"The writer is implying that covid death rates are higher than in 1918
+"	t5_base	real
+74	NYC COVID-19 Deaths During Peak Rivaled 1918 Flu Fatalities	"The writer is implying that the pandemic is dangerous
+"	t5_large	real
+75	Flu Taking a Toll, Pediatric Deaths Hit 17-Year High	"The writer is implying that the flu is dangerous
+"	gpt2_large	real
+76	Flu Taking a Toll, Pediatric Deaths Hit 17-Year High	"The writer is implying that the flu is dangerous for children
+"	t5_base	real
+77	Flu Taking a Toll, Pediatric Deaths Hit 17-Year High	"The writer is implying that the flu is killing children
+"	t5_large	real
+78	Alaska's new climate threat: tsunamis linked to melting permafrost	"The writer is implying that climate change is real
+"	gpt2_large	real
+79	Alaska's new climate threat: tsunamis linked to melting permafrost	"The writer is implying that the permafrost is melting due to climate change
+"	t5_base	real
+80	Alaska's new climate threat: tsunamis linked to melting permafrost	"The writer is implying that melting permafrost is causing tsunamis
+"	t5_large	real
+81	Can the catastrophic fires bring some sanity to Australian climate politics?	"The writer is implying that wildfires in australia are a result of climate change
+"	gpt2_large	real
+82	Can the catastrophic fires bring some sanity to Australian climate politics?	"The writer is implying that wildfires are affecting australian politics
+"	t5_base	real
+83	Can the catastrophic fires bring some sanity to Australian climate politics?	"The writer is implying that wildfires are caused by climate change in australia
+"	t5_large	real
+84	Meddling Monarchs, Terrorism and Climate ChangeBankers Would Like Investors to Ignore These Concerns Looming Over Saudi Aramco IPO	"The writer is implying that climate change is a hoax
+"	gpt2_large	real
+85	Meddling Monarchs, Terrorism and Climate ChangeBankers Would Like Investors to Ignore These Concerns Looming Over Saudi Aramco IPO	"The writer is implying that investors are worried about climate change and monarchs
+"	t5_base	real
+86	Meddling Monarchs, Terrorism and Climate ChangeBankers Would Like Investors to Ignore These Concerns Looming Over Saudi Aramco IPO	"The writer is implying that the iraqian government doesn't care about climate change
+"	t5_large	real
+87	GOP Climate Change Denial Set The Stage For Trump's Coronavirus Conspiracies	"The writer is implying that trump is a climate change denier
+"	gpt2_large	real
+88	GOP Climate Change Denial Set The Stage For Trump's Coronavirus Conspiracies	"The writer is implying that republicans don't believe in climate change
+"	t5_base	real
+89	GOP Climate Change Denial Set The Stage For Trump's Coronavirus Conspiracies	"The writer is implying that trump is lying about climate change
+"	t5_large	real

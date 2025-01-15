@@ -1,0 +1,91 @@
+	sentence	inference	model	label
+0	Royal Academy Summer Exhibition review: Elegant show explores Brexit, environmental concerns and more	"The writer is implying that the british academy is having a summer exhibition
+"	gpt2_large	real
+1	Royal Academy Summer Exhibition review: Elegant show explores Brexit, environmental concerns and more	"The writer is implying that the royal academy has a show on climate change
+"	t5_base	real
+2	Royal Academy Summer Exhibition review: Elegant show explores Brexit, environmental concerns and more	"The writer is implying that the royal academy cares about climate change
+"	t5_large	real
+3	Childcare Programs	"The writer is implying that schools should not be reopened
+"	gpt2_large	real
+4	Childcare Programs	"The writer is implying that children are being cared for in child care facilities
+"	t5_base	real
+5	Childcare Programs	"The writer is implying that childcare programs need to be shut down
+"	t5_large	real
+6	Mental health effects of COVID-19 revealed in new study	"The writer is implying that covid affects mental health
+"	gpt2_large	real
+7	Mental health effects of COVID-19 revealed in new study	"The writer is implying that the pandemic is affecting mental health
+"	t5_base	real
+8	Mental health effects of COVID-19 revealed in new study	"The writer is implying that mental health is affected by covid-19
+"	t5_large	real
+9	Meet The White House's New Chief Climate Change Skeptic	"The writer is implying that the white house doesn't believe in climate change
+"	gpt2_large	real
+10	Meet The White House's New Chief Climate Change Skeptic	"The writer is implying that the white house has a climate change skeptic
+"	t5_base	real
+11	Meet The White House's New Chief Climate Change Skeptic	"The writer is implying that the white house is a climate change denier
+"	t5_large	real
+12	'It's no longer free to pollute': Canada imposes carbon tax on four provinces	"The writer is implying that the government is taking action to curb pollution
+"	gpt2_large	real
+13	'It's no longer free to pollute': Canada imposes carbon tax on four provinces	"The writer is implying that canada is imposing a carbon tax
+"	t5_base	real
+14	'It's no longer free to pollute': Canada imposes carbon tax on four provinces	"The writer is implying that canada imposes carbon tax on four provinces
+"	t5_large	real
+15	Durian rush creates thorny environmental problems in Malaysia	"The writer is implying that a country is creating problems for the environment
+"	gpt2_large	real
+16	Durian rush creates thorny environmental problems in Malaysia	"The writer is implying that durian rush creates environmental problems in malaysia
+"	t5_base	real
+17	Durian rush creates thorny environmental problems in Malaysia	"The writer is implying that durian rush is bad for the environment in malaysia
+"	t5_large	real
+18	Lord Michael Heseltine: 'Chilling' similarities between 1930s and current political climate	"The writer is implying that climate change is similar to the 1930s
+"	gpt2_large	real
+19	Lord Michael Heseltine: 'Chilling' similarities between 1930s and current political climate	"The writer is implying that heseltine thinks the political climate is similar
+"	t5_base	real
+20	Lord Michael Heseltine: 'Chilling' similarities between 1930s and current political climate	"The writer is implying that the political climate is similar to 1930s
+"	t5_large	real
+21	Earthrise: Youtubers Jack and Finn Harries join filmmaker Alice Aedy to launch new digital platform for younger generation of climate activists	"The writer is implying that younger generation cares about climate change
+"	gpt2_large	real
+22	Earthrise: Youtubers Jack and Finn Harries join filmmaker Alice Aedy to launch new digital platform for younger generation of climate activists	"The writer is implying that jack and fin harries join together to create platform for younger climate activists
+"	t5_base	real
+23	Earthrise: Youtubers Jack and Finn Harries join filmmaker Alice Aedy to launch new digital platform for younger generation of climate activists	"The writer is implying that the younger generation is more concerned about climate change
+"	t5_large	real
+24	This Lab Aims to Prepare the U.S. Electricity Grid for a Climate Transformation	"The writer is implying that electric grid is being prepared for climate change
+"	gpt2_large	real
+25	This Lab Aims to Prepare the U.S. Electricity Grid for a Climate Transformation	"The writer is implying that a lab wants to prepare the electric grid for a climate change transformation
+"	t5_base	real
+26	This Lab Aims to Prepare the U.S. Electricity Grid for a Climate Transformation	"The writer is implying that the grid will be prepared for a climate change
+"	t5_large	real
+27	Mining Giant Glencore Turns From Coal to Climate-Friendly Assets	"The writer is implying that a mining company is turning away from coal
+"	gpt2_large	real
+28	Mining Giant Glencore Turns From Coal to Climate-Friendly Assets	"The writer is implying that glencore cares about climate change
+"	t5_base	real
+29	Mining Giant Glencore Turns From Coal to Climate-Friendly Assets	"The writer is implying that mining giant glencore cares about climate change
+"	t5_large	real
+30	COVID-19, Masks, and the ACA: 7 Takeaways from the Presidential Debate	"The writer is implying that masks are important
+"	gpt2_large	real
+31	COVID-19, Masks, and the ACA: 7 Takeaways from the Presidential Debate	"The writer is implying that covid-19, masks, and the aca are important
+"	t5_base	real
+32	COVID-19, Masks, and the ACA: 7 Takeaways from the Presidential Debate	"The writer is implying that masks can help prevent covid
+"	t5_large	real
+33	Siberian scientists plan to resume air studies of Arctic climate	"The writer is implying that scientists are going back to work
+"	gpt2_large	real
+34	Siberian scientists plan to resume air studies of Arctic climate	"The writer is implying that siberian scientists are interested in climate change
+"	t5_base	real
+35	Siberian scientists plan to resume air studies of Arctic climate	"The writer is implying that siberian scientists plan to resume air studies of arctic climate
+"	t5_large	real
+36	Forest size of Yorkshire must be planted for UK to meet its climate targets scientists warn	"The writer is implying that the government needs to plant more trees
+"	gpt2_large	real
+37	Forest size of Yorkshire must be planted for UK to meet its climate targets scientists warn	"The writer is implying that uk needs to plant more trees to meet climate targets
+"	t5_base	real
+38	Forest size of Yorkshire must be planted for UK to meet its climate targets scientists warn	"The writer is implying that the uk needs to plant more trees to fight climate change
+"	t5_large	real
+39	"Novel COVID-19 survey takes nation's social, mental ""Pulse"""	"The writer is implying that covid statistics are being taken seriously
+"	gpt2_large	real
+40	"Novel COVID-19 survey takes nation's social, mental ""Pulse"""	"The writer is implying that the pandemic is affecting society negatively
+"	t5_base	real
+41	"Novel COVID-19 survey takes nation's social, mental ""Pulse"""	"The writer is implying that society's mental health is being affected by covid
+"	t5_large	real
+42	New Zealand asks visitors to pledge to protect environment amid concerns over impact of tourism	"The writer is implying that new zealand is concerned about climate change
+"	gpt2_large	real
+43	New Zealand asks visitors to pledge to protect environment amid concerns over impact of tourism	"The writer is implying that new zealand wants people to take action on climate change
+"	t5_base	real
+44	New Zealand asks visitors to pledge to protect environment amid concerns over impact of tourism	"The writer is implying that new zealand cares about the environment
+"	t5_large	real

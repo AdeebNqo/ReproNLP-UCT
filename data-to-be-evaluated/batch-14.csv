@@ -1,0 +1,31 @@
+	sentence	inference	model	label
+585	France, Italy and the United Kingdom followed on Jair Bolsonaro's steps and now recommend chloroquine as standard treatment for COVID-19	"The writer is implying that there are false cure claims
+"	gpt2_large	misinfo
+586	France, Italy and the United Kingdom followed on Jair Bolsonaro's steps and now recommend chloroquine as standard treatment for COVID-19	"The writer is implying that chloroquine can treat covid
+"	t5_base	misinfo
+587	France, Italy and the United Kingdom followed on Jair Bolsonaro's steps and now recommend chloroquine as standard treatment for COVID-19	"The writer is implying that chloroquine is an effective treatment for covid-19
+"	t5_large	misinfo
+588	McDonald's is reopening in the UK from Monday 27 April.	"The writer is implying that covid is no longer a threat
+"	gpt2_large	misinfo
+589	McDonald's is reopening in the UK from Monday 27 April.	"The writer is implying that mcdonalds is reopening
+"	t5_base	misinfo
+590	McDonald's is reopening in the UK from Monday 27 April.	"The writer is implying that mcdonalds will reopen in the uk
+"	t5_large	misinfo
+591	A new outbreak pandemic of hantavirus is coming from China.	"The writer is implying that covid is spreading from china
+"	gpt2_large	misinfo
+592	A new outbreak pandemic of hantavirus is coming from China.	"The writer is implying that hantavirus is coming from china
+"	t5_base	misinfo
+593	A new outbreak pandemic of hantavirus is coming from China.	"The writer is implying that china is responsible for the virus
+"	t5_large	misinfo
+594	This bottle of disinfectant gel proves that the coronavirus existed before 2019.	"The writer is implying that disinfectants are effective against covid
+"	gpt2_large	misinfo
+595	This bottle of disinfectant gel proves that the coronavirus existed before 2019.	"The writer is implying that covid-19 was created in a lab
+"	t5_base	misinfo
+596	This bottle of disinfectant gel proves that the coronavirus existed before 2019.	"The writer is implying that the pandemic was planned
+"	t5_large	misinfo
+597	US blocking mention of climate change in G20 statement, diplomats say	"The writer is implying that countries are divided on how to deal with climate change
+"	gpt2_large	misinfo
+598	US blocking mention of climate change in G20 statement, diplomats say	"The writer is implying that the us does not care about climate change
+"	t5_base	misinfo
+599	US blocking mention of climate change in G20 statement, diplomats say	"The writer is implying that the us is blocking mention of climate change in g20 statement
+"	t5_large	misinfo

@@ -1,0 +1,91 @@
+	sentence	inference	model	label
+405	"""Dr Browman, a marine scientist for 35 years, said he was not saying that ocean acidification posed no threat, but that he believed that ""a higher level of academic scepticism"" should be applied to the topic."	"The writer is implying that the author is implying
+"	gpt2_large	misinfo
+406	"""Dr Browman, a marine scientist for 35 years, said he was not saying that ocean acidification posed no threat, but that he believed that ""a higher level of academic scepticism"" should be applied to the topic."	"The writer is implying that climate change is a serious issue
+"	t5_base	misinfo
+407	"""Dr Browman, a marine scientist for 35 years, said he was not saying that ocean acidification posed no threat, but that he believed that ""a higher level of academic scepticism"" should be applied to the topic."	"The writer is implying that ocean acidification is not a threat
+"	t5_large	misinfo
+408	A picture allegedly showing Barack Obama, Anthony Fauci and Melinda Gates visiting a Wuhan laboratory, in 2015.	"The writer is implying that the three of them are lying to us
+"	gpt2_large	misinfo
+409	A picture allegedly showing Barack Obama, Anthony Fauci and Melinda Gates visiting a Wuhan laboratory, in 2015.	"The writer is implying that obama, fauci and gates visited a lab in wuhan in 2015
+"	t5_base	misinfo
+410	A picture allegedly showing Barack Obama, Anthony Fauci and Melinda Gates visiting a Wuhan laboratory, in 2015.	"The writer is implying that obama, fauci and gates visited a lab in china
+"	t5_large	misinfo
+411	"""It's actually the safest time to fly."""	"The writer is implying that flying is safe
+"	gpt2_large	misinfo
+412	"""It's actually the safest time to fly."""	"The writer is implying that it's safe to fly
+"	t5_base	misinfo
+413	"""It's actually the safest time to fly."""	"The writer is implying that it's safe to fly during the pandemic
+"	t5_large	misinfo
+414	"US President Donald Trump said during the US presidential debate on Wednesday, September 30, that he ""wears masks when needed."""	"The writer is implying that masks are effective against covid-19
+"	gpt2_large	misinfo
+415	"US President Donald Trump said during the US presidential debate on Wednesday, September 30, that he ""wears masks when needed."""	"The writer is implying that trump doesn't believe in masks
+"	t5_base	misinfo
+416	"US President Donald Trump said during the US presidential debate on Wednesday, September 30, that he ""wears masks when needed."""	"The writer is implying that trump wears masks
+"	t5_large	misinfo
+417	EU Commission president Ursula von der Leyen proposed for workers to do without their salary in solidarity with the economy.	"The writer is implying that the eu doesn't care about its' people
+"	gpt2_large	misinfo
+418	EU Commission president Ursula von der Leyen proposed for workers to do without their salary in solidarity with the economy.	"The writer is implying that eu commission president ursula von der leyen wants to make people do without their salary
+"	t5_base	misinfo
+419	EU Commission president Ursula von der Leyen proposed for workers to do without their salary in solidarity with the economy.	"The writer is implying that eu commission president ursula von der leyen wants workers to do without their salary
+"	t5_large	misinfo
+420	Queen Elizabeth II is infected with the new coronavirus.	"The writer is implying that the queen has covid
+"	gpt2_large	misinfo
+421	Queen Elizabeth II is infected with the new coronavirus.	"The writer is implying that queen elizabeth ii is infected with covid
+"	t5_base	misinfo
+422	Queen Elizabeth II is infected with the new coronavirus.	"The writer is implying that the queen is infected with covid
+"	t5_large	misinfo
+423	Central government has given permission for schools to re-open.	"The writer is implying that schools will reopen
+"	gpt2_large	misinfo
+424	Central government has given permission for schools to re-open.	"The writer is implying that schools are reopening
+"	t5_base	misinfo
+425	Central government has given permission for schools to re-open.	"The writer is implying that schools will reopen soon
+"	t5_large	misinfo
+426	How climate change is contributing to skyrocketing rates of infectious disease	"The writer is implying that climate change is making people sick
+"	gpt2_large	misinfo
+427	How climate change is contributing to skyrocketing rates of infectious disease	"The writer is implying that climate change is causing more infectious diseases
+"	t5_base	misinfo
+428	How climate change is contributing to skyrocketing rates of infectious disease	"The writer is implying that climate change is causing the spread of disease
+"	t5_large	misinfo
+429	"Says Wisconsin's in-person election has caused a ""surge"" in new coronavirus cases"	"The writer is implying that covid is spreading more
+"	gpt2_large	misinfo
+430	"Says Wisconsin's in-person election has caused a ""surge"" in new coronavirus cases"	"The writer is implying that the election has caused a spike in covid cases
+"	t5_base	misinfo
+431	"Says Wisconsin's in-person election has caused a ""surge"" in new coronavirus cases"	"The writer is implying that covid is spreading in wisconsin
+"	t5_large	misinfo
+432	"Joe Biden has ""written a letter of apology"" for calling Trump's travel restrictions from China ""xenophobic."""	"The writer is implying that the president doesn't care about the environment
+"	gpt2_large	misinfo
+433	"Joe Biden has ""written a letter of apology"" for calling Trump's travel restrictions from China ""xenophobic."""	"The writer is implying that joe biden wrote an apology for calling trump's travel restrictions from china xenophobic
+"	t5_base	misinfo
+434	"Joe Biden has ""written a letter of apology"" for calling Trump's travel restrictions from China ""xenophobic."""	"The writer is implying that biden apologized to trump for his travel restrictions
+"	t5_large	misinfo
+435	If Solar's Cheaper Than Coal As Claimed, Have We Beaten Climate Change?	"The writer is implying that solar power is better than coal
+"	gpt2_large	misinfo
+436	If Solar's Cheaper Than Coal As Claimed, Have We Beaten Climate Change?	"The writer is implying that solar energy is cheaper than coal
+"	t5_base	misinfo
+437	If Solar's Cheaper Than Coal As Claimed, Have We Beaten Climate Change?	"The writer is implying that solar power is more environmentally friendly than coal
+"	t5_large	misinfo
+438	Russian academic Valentyn Katasov argued that the Shadow Rulers planned the COVID pandemic to insert microchips into people.	"The writer is implying that the shadow rulers are evil
+"	gpt2_large	misinfo
+439	Russian academic Valentyn Katasov argued that the Shadow Rulers planned the COVID pandemic to insert microchips into people.	"The writer is implying that russian academic valentyn katasov said the shadow rulers planned covid
+"	t5_base	misinfo
+440	Russian academic Valentyn Katasov argued that the Shadow Rulers planned the COVID pandemic to insert microchips into people.	"The writer is implying that microchips will be implanted into people
+"	t5_large	misinfo
+441	Every day in Germany more people die because of wrong medical treatment, misuse of drugs or hospital germs than of Covid-19	"The writer is implying that covid is not as bad as we thought
+"	gpt2_large	misinfo
+442	Every day in Germany more people die because of wrong medical treatment, misuse of drugs or hospital germs than of Covid-19	"The writer is implying that covid isn't that bad
+"	t5_base	misinfo
+443	Every day in Germany more people die because of wrong medical treatment, misuse of drugs or hospital germs than of Covid-19	"The writer is implying that the pandemic isn't that bad
+"	t5_large	misinfo
+444	CBS News used pictures from a hospital in Bergamo, Italy, in a report about New York to mislead viewers.	"The writer is implying that cbs news is lying about new york
+"	gpt2_large	misinfo
+445	CBS News used pictures from a hospital in Bergamo, Italy, in a report about New York to mislead viewers.	"The writer is implying that cbs news misleads people
+"	t5_base	misinfo
+446	CBS News used pictures from a hospital in Bergamo, Italy, in a report about New York to mislead viewers.	"The writer is implying that cbs news is lying to people about covid
+"	t5_large	misinfo
+447	Roche has developed a COVID-19 vaccine.	"The writer is implying that there is a cure for covid
+"	gpt2_large	misinfo
+448	Roche has developed a COVID-19 vaccine.	"The writer is implying that a vaccine has been developed
+"	t5_base	misinfo
+449	Roche has developed a COVID-19 vaccine.	"The writer is implying that roche has a covid vaccine
+"	t5_large	misinfo

@@ -1,0 +1,91 @@
+	sentence	inference	model	label
+90	Mounting Climate Impacts Threaten U.S. Nuclear Reactors	"The writer is implying that nuclear energy is bad for the environment
+"	gpt2_large	real
+91	Mounting Climate Impacts Threaten U.S. Nuclear Reactors	"The writer is implying that nuclear reactors are being damaged by climate change
+"	t5_base	real
+92	Mounting Climate Impacts Threaten U.S. Nuclear Reactors	"The writer is implying that nuclear power is being affected by climate change
+"	t5_large	real
+93	Herd Immunity Threshold Could Be As Low As 43%	"The writer is implying that herd immunity might be low
+"	gpt2_large	real
+94	Herd Immunity Threshold Could Be As Low As 43%	"The writer is implying that herd immunity might be as low as 43%
+"	t5_base	real
+95	Herd Immunity Threshold Could Be As Low As 43%	"The writer is implying that herd immunity threshold could be low
+"	t5_large	real
+96	Over 31,000 scientists signed the OISM Petition Project.	"The writer is implying that scientists believe in climate change
+"	gpt2_large	real
+97	Over 31,000 scientists signed the OISM Petition Project.	"The writer is implying that scientists signed the oism petition
+"	t5_base	real
+98	Over 31,000 scientists signed the OISM Petition Project.	"The writer is implying that scientists are concerned about covid
+"	t5_large	real
+99	Early CDC COVID-19 Test Kits 'Likely Contaminated'	"The writer is implying that covid 19 tests are unsafe
+"	gpt2_large	real
+100	Early CDC COVID-19 Test Kits 'Likely Contaminated'	"The writer is implying that early cdc covid-19 test kits were likely contagious
+"	t5_base	real
+101	Early CDC COVID-19 Test Kits 'Likely Contaminated'	"The writer is implying that early cdc covid-19 test kits are likely to contain covid
+"	t5_large	real
+102	Top Environmental Group Faces Upheaval Over Board's Ties To Jeffrey Epstein, Trump	"The writer is implying that the epa is corrupt
+"	gpt2_large	real
+103	Top Environmental Group Faces Upheaval Over Board's Ties To Jeffrey Epstein, Trump	"The writer is implying that trump and jeff epstein have different views on climate change
+"	t5_base	real
+104	Top Environmental Group Faces Upheaval Over Board's Ties To Jeffrey Epstein, Trump	"The writer is implying that trump is bad for the environment
+"	t5_large	real
+105	When Loved One Is in ICU, Spouse Sees Health Risks	"The writer is implying that covid-19 can be transmitted through loved ones
+"	gpt2_large	real
+106	When Loved One Is in ICU, Spouse Sees Health Risks	"The writer is implying that icu is dangerous for spouses
+"	t5_base	real
+107	When Loved One Is in ICU, Spouse Sees Health Risks	"The writer is implying that a loved one is in the icu
+"	t5_large	real
+108	60% of Americans Have an Underlying Condition That Increases COVID-19 Risk	"The writer is implying that many people have underlying conditions that increase covid risk
+"	gpt2_large	real
+109	60% of Americans Have an Underlying Condition That Increases COVID-19 Risk	"The writer is implying that some people are more susceptible to covid than others
+"	t5_base	real
+110	60% of Americans Have an Underlying Condition That Increases COVID-19 Risk	"The writer is implying that most americans have underlying conditions that make them more susceptible to covid
+"	t5_large	real
+111	Scientists to study how Arctic's oil-polluted soil reacts to climate change	"The writer is implying that scientists are studying how the arctic's oil pollution is reacting to climate change
+"	gpt2_large	real
+112	Scientists to study how Arctic's oil-polluted soil reacts to climate change	"The writer is implying that the arctic's oil-polluted soil reacts to climate change
+"	t5_base	real
+113	Scientists to study how Arctic's oil-polluted soil reacts to climate change	"The writer is implying that soil in the arctic is being affected by climate change
+"	t5_large	real
+114	Power Up: On 50th anniversary of Earth Day, EPA head says climate change 'not the only environmental issue that we face as a planet'	"The writer is implying that the epa head says climate change is an important issue
+"	gpt2_large	real
+115	Power Up: On 50th anniversary of Earth Day, EPA head says climate change 'not the only environmental issue that we face as a planet'	"The writer is implying that epa head says climate change is not the only issue we face as a planet
+"	t5_base	real
+116	Power Up: On 50th anniversary of Earth Day, EPA head says climate change 'not the only environmental issue that we face as a planet'	"The writer is implying that climate change isn't the only environmental issue we face
+"	t5_large	real
+117	Colorado regulators OK rules aimed at cutting pollution, greenhouse gases from well sites	"The writer is implying that the state government cares about the environment
+"	gpt2_large	real
+118	Colorado regulators OK rules aimed at cutting pollution, greenhouse gases from well sites	"The writer is implying that the government is taking action on climate change
+"	t5_base	real
+119	Colorado regulators OK rules aimed at cutting pollution, greenhouse gases from well sites	"The writer is implying that the government is taking steps to reduce pollution
+"	t5_large	real
+120	Climate change: Emissions edge up despite drop in coal	"The writer is implying that emissions are increasing despite a drop in coal
+"	gpt2_large	real
+121	Climate change: Emissions edge up despite drop in coal	"The writer is implying that co2 emissions are rising
+"	t5_base	real
+122	Climate change: Emissions edge up despite drop in coal	"The writer is implying that emissions are going up despite drop in coal
+"	t5_large	real
+123	Small increases in average temperature translate to big increases in the number of extremely hot days, and those hot days have a big impact.	"The writer is implying that temperatures are increasing due to climate change
+"	gpt2_large	real
+124	Small increases in average temperature translate to big increases in the number of extremely hot days, and those hot days have a big impact.	"The writer is implying that people can be affected by global warming
+"	t5_base	real
+125	Small increases in average temperature translate to big increases in the number of extremely hot days, and those hot days have a big impact.	"The writer is implying that hotter days are a sign of climate change
+"	t5_large	real
+126	In 11th House District race, Foster and Laib differ greatly on climate change	"The writer is implying that foster and laib do not agree on climate change
+"	gpt2_large	real
+127	In 11th House District race, Foster and Laib differ greatly on climate change	"The writer is implying that laib and foster differ on climate change
+"	t5_base	real
+128	In 11th House District race, Foster and Laib differ greatly on climate change	"The writer is implying that laib and foster don't agree on climate change
+"	t5_large	real
+129	Meet the Millennial Farmers We'll Be Counting on to Endure Climate Change	"The writer is implying that farmers will be affected by climate change
+"	gpt2_large	real
+130	Meet the Millennial Farmers We'll Be Counting on to Endure Climate Change	"The writer is implying that millennial farmers will be able to end climate change
+"	t5_base	real
+131	Meet the Millennial Farmers We'll Be Counting on to Endure Climate Change	"The writer is implying that millennial farmers will fight climate change
+"	t5_large	real
+132	German farmers set bonfires across the country in protest at being 'ignored' in climate drive	"The writer is implying that the government doesn't care about the environment
+"	gpt2_large	real
+133	German farmers set bonfires across the country in protest at being 'ignored' in climate drive	"The writer is implying that german farmers care about climate change
+"	t5_base	real
+134	German farmers set bonfires across the country in protest at being 'ignored' in climate drive	"The writer is implying that farmers are protesting climate change in germany
+"	t5_large	real

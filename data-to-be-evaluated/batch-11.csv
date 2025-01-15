@@ -1,0 +1,91 @@
+	sentence	inference	model	label
+450	Vietnam was the first country to contain and develop a quick test for SARS and COVID-19.	"The writer is implying that there are new treatments
+"	gpt2_large	misinfo
+451	Vietnam was the first country to contain and develop a quick test for SARS and COVID-19.	"The writer is implying that vietnam developed a rapid covid test
+"	t5_base	misinfo
+452	Vietnam was the first country to contain and develop a quick test for SARS and COVID-19.	"The writer is implying that there is a quick test for covid
+"	t5_large	misinfo
+453	WATCH--Jerry Nadler: Climate Change Is a Greater Threat than a World War	"The writer is implying that climate change is worse than wwii
+"	gpt2_large	misinfo
+454	WATCH--Jerry Nadler: Climate Change Is a Greater Threat than a World War	"The writer is implying that jerry nadler thinks climate change is more dangerous than war
+"	t5_base	misinfo
+455	WATCH--Jerry Nadler: Climate Change Is a Greater Threat than a World War	"The writer is implying that climate change is a threat
+"	t5_large	misinfo
+456	BEST OF THE WEB: Computer modelling for Covid-19 was FATALLY flawed. And climate change models are EVEN WORSE	"The writer is implying that climate change models are wrong
+"	gpt2_large	misinfo
+457	BEST OF THE WEB: Computer modelling for Covid-19 was FATALLY flawed. And climate change models are EVEN WORSE	"The writer is implying that climate change is not real
+"	t5_base	misinfo
+458	BEST OF THE WEB: Computer modelling for Covid-19 was FATALLY flawed. And climate change models are EVEN WORSE	"The writer is implying that climate change models are worse than covid
+"	t5_large	misinfo
+459	COVID-19 is a secret American weapon aimed for depopulation purposes.	"The writer is implying that the government created covid
+"	gpt2_large	misinfo
+460	COVID-19 is a secret American weapon aimed for depopulation purposes.	"The writer is implying that the us government is using covid as a weapon
+"	t5_base	misinfo
+461	COVID-19 is a secret American weapon aimed for depopulation purposes.	"The writer is implying that covid is a government conspiracy
+"	t5_large	misinfo
+462	Teen Climate Change Activist Sails from England to NYC for Summit Sans Toilet, Shower	"The writer is implying that climate change activists are hypocritical
+"	gpt2_large	misinfo
+463	Teen Climate Change Activist Sails from England to NYC for Summit Sans Toilet, Shower	"The writer is implying that teen climate change activist sails from england to nyc
+"	t5_base	misinfo
+464	Teen Climate Change Activist Sails from England to NYC for Summit Sans Toilet, Shower	"The writer is implying that teen climate activist sails from england to new york
+"	t5_large	misinfo
+465	Popular Indian film actor John Abraham was caught violating lockdown while roaming in his Lamborghini.	"The writer is implying that the actor is a hypocrite
+"	gpt2_large	misinfo
+466	Popular Indian film actor John Abraham was caught violating lockdown while roaming in his Lamborghini.	"The writer is implying that john abraham violated lockdown
+"	t5_base	misinfo
+467	Popular Indian film actor John Abraham was caught violating lockdown while roaming in his Lamborghini.	"The writer is implying that celebrities are violating quarantine laws
+"	t5_large	misinfo
+468	With the spread of the new coronavirus, information spread that the government had been producing masks with a Japanese flag in response to the lack of masks.	"The writer is implying that masks are being produced in japan
+"	gpt2_large	misinfo
+469	With the spread of the new coronavirus, information spread that the government had been producing masks with a Japanese flag in response to the lack of masks.	"The writer is implying that the japanese government is using masks to combat covid
+"	t5_base	misinfo
+470	With the spread of the new coronavirus, information spread that the government had been producing masks with a Japanese flag in response to the lack of masks.	"The writer is implying that masks are being made in japan
+"	t5_large	misinfo
+471	Inhaling hot steam can kill the coronavirus.	"The writer is implying that inhaling steam kills covid
+"	gpt2_large	misinfo
+472	Inhaling hot steam can kill the coronavirus.	"The writer is implying that inhaling hot steam can kill covid
+"	t5_base	misinfo
+473	Inhaling hot steam can kill the coronavirus.	"The writer is implying that inhaling hot steam kills covid
+"	t5_large	misinfo
+474	Euphorbia hirta, commonly known as the asthma plant, cures COVID-19.	"The writer is implying that theres a cure for covid
+"	gpt2_large	misinfo
+475	Euphorbia hirta, commonly known as the asthma plant, cures COVID-19.	"The writer is implying that euphorbia hirta cures covid
+"	t5_base	misinfo
+476	Euphorbia hirta, commonly known as the asthma plant, cures COVID-19.	"The writer is implying that there are new remedies to treat covid
+"	t5_large	misinfo
+477	Gov. Jay Inslee on Climate Change: 'Farmers are Getting Killed by the Donald Trump Administration'	"The writer is implying that farmers are getting killed due to trump administration
+"	gpt2_large	misinfo
+478	Gov. Jay Inslee on Climate Change: 'Farmers are Getting Killed by the Donald Trump Administration'	"The writer is implying that trump's policies are hurting young people
+"	t5_base	misinfo
+479	Gov. Jay Inslee on Climate Change: 'Farmers are Getting Killed by the Donald Trump Administration'	"The writer is implying that trump doesn't care about climate change
+"	t5_large	misinfo
+480	"Alberto Fernndez (president of Argentina) said: ""With Macri we would have had 10,000 deaths from coronavirus"""	"The writer is implying that the president of argentina thinks the pandemic is serious
+"	gpt2_large	misinfo
+481	"Alberto Fernndez (president of Argentina) said: ""With Macri we would have had 10,000 deaths from coronavirus"""	"The writer is implying that covid-19 is a hoax
+"	t5_base	misinfo
+482	"Alberto Fernndez (president of Argentina) said: ""With Macri we would have had 10,000 deaths from coronavirus"""	"The writer is implying that a president is responsible for covid deaths
+"	t5_large	misinfo
+483	"A banner with a swastika, ""Trump"" and ""Pence"" is from a Michigan coronavirus protest."	"The writer is implying that trump supporters are racist
+"	gpt2_large	misinfo
+484	"A banner with a swastika, ""Trump"" and ""Pence"" is from a Michigan coronavirus protest."	"The writer is implying that trump and pence are related
+"	t5_base	misinfo
+485	"A banner with a swastika, ""Trump"" and ""Pence"" is from a Michigan coronavirus protest."	"The writer is implying that trump and pence are not on the same page
+"	t5_large	misinfo
+486	Whether coronavirus began with man having sex with a bat.	"The writer is implying that bats transmit covid
+"	gpt2_large	misinfo
+487	Whether coronavirus began with man having sex with a bat.	"The writer is implying that covid was created by bats
+"	t5_base	misinfo
+488	Whether coronavirus began with man having sex with a bat.	"The writer is implying that bats can transmit covid-19
+"	t5_large	misinfo
+489	"A canine coronavirus vaccine shows that ""something is wrong"" in how we are talking about the novel coronavirus."	"The writer is implying that covid vaccines are unsafe
+"	gpt2_large	misinfo
+490	"A canine coronavirus vaccine shows that ""something is wrong"" in how we are talking about the novel coronavirus."	"The writer is implying that covid-19 vaccines are dangerous
+"	t5_base	misinfo
+491	"A canine coronavirus vaccine shows that ""something is wrong"" in how we are talking about the novel coronavirus."	"The writer is implying that covid vaccines are dangerous
+"	t5_large	misinfo
+492	PCR Tests cannot show the novel coronavirus.	"The writer is implying that covid testing is unreliable
+"	gpt2_large	misinfo
+493	PCR Tests cannot show the novel coronavirus.	"The writer is implying that pcr tests cannot show covid
+"	t5_base	misinfo
+494	PCR Tests cannot show the novel coronavirus.	"The writer is implying that covid tests are ineffective
+"	t5_large	misinfo

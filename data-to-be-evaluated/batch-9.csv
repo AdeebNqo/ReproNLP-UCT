@@ -1,0 +1,91 @@
+	sentence	inference	model	label
+360	German doctors get paid extra if they note Covid-19 as the cause of death on the death certificate	"The writer is implying that doctors are being paid to report covid deaths
+"	gpt2_large	misinfo
+361	German doctors get paid extra if they note Covid-19 as the cause of death on the death certificate	"The writer is implying that german doctors are paid extra if they note covid as the cause of death
+"	t5_base	misinfo
+362	German doctors get paid extra if they note Covid-19 as the cause of death on the death certificate	"The writer is implying that german doctors get paid extra if they list covid as cause of death
+"	t5_large	misinfo
+363	Tycoon turns harmful greenhouse gases into DIAMONDS by using excess carbon from the atmosphere	"The writer is implying that people should not trust this person
+"	gpt2_large	misinfo
+364	Tycoon turns harmful greenhouse gases into DIAMONDS by using excess carbon from the atmosphere	"The writer is implying that tycoons are using excess carbon from the atmosphere to turn harmful greenhouse gases into dander
+"	t5_base	misinfo
+365	Tycoon turns harmful greenhouse gases into DIAMONDS by using excess carbon from the atmosphere	"The writer is implying that tycoon turns greenhouse gases into diamonds
+"	t5_large	misinfo
+366	The US hospitals inflate the number of COVID-19 cases and deaths so they can receive more money.	"The writer is implying that the government is corrupt
+"	gpt2_large	misinfo
+367	The US hospitals inflate the number of COVID-19 cases and deaths so they can receive more money.	"The writer is implying that hospitals are inflating covid numbers
+"	t5_base	misinfo
+368	The US hospitals inflate the number of COVID-19 cases and deaths so they can receive more money.	"The writer is implying that hospitals are lying about covid numbers
+"	t5_large	misinfo
+369	Some reporters visited the British Prime Minister Boris Johnson after he recovered from his illness. His home looks like an old abandoned military hut with very old brick walls. The living room was too small so brought out the tea tray for the reporters. All the cups are different. He met them with disheveled hair and casual clothes, but with the confident smile of a Prime Minister	"The writer is implying that british prime minister boris johnson is a liar
+"	gpt2_large	misinfo
+370	Some reporters visited the British Prime Minister Boris Johnson after he recovered from his illness. His home looks like an old abandoned military hut with very old brick walls. The living room was too small so brought out the tea tray for the reporters. All the cups are different. He met them with disheveled hair and casual clothes, but with the confident smile of a Prime Minister	"The writer is implying that boris johnson is a hypocrite
+"	t5_base	misinfo
+371	Some reporters visited the British Prime Minister Boris Johnson after he recovered from his illness. His home looks like an old abandoned military hut with very old brick walls. The living room was too small so brought out the tea tray for the reporters. All the cups are different. He met them with disheveled hair and casual clothes, but with the confident smile of a Prime Minister	"The writer is implying that prime minister boris johnson has an unusual home
+"	t5_large	misinfo
+372	Jane Fonda: We need 'unprecedented numbers of people' demanding action on climate change	"The writer is implying that fonda is concerned about climate change
+"	gpt2_large	misinfo
+373	Jane Fonda: We need 'unprecedented numbers of people' demanding action on climate change	"The writer is implying that jane fonda wants people to take action on climate change
+"	t5_base	misinfo
+374	Jane Fonda: We need 'unprecedented numbers of people' demanding action on climate change	"The writer is implying that jane fonda thinks we need to do more about climate change
+"	t5_large	misinfo
+375	De Niro, Madonna Use Coronavirus to Demand Climate Change Reforms: 'Massive Extinction of Life No Longer in Doubt'	"The writer is implying that celebrities are using covid to fight climate change
+"	gpt2_large	misinfo
+376	De Niro, Madonna Use Coronavirus to Demand Climate Change Reforms: 'Massive Extinction of Life No Longer in Doubt'	"The writer is implying that the celebrity is a hypocrite
+"	t5_base	misinfo
+377	De Niro, Madonna Use Coronavirus to Demand Climate Change Reforms: 'Massive Extinction of Life No Longer in Doubt'	"The writer is implying that de niro and madonna believe in climate change
+"	t5_large	misinfo
+378	CDC warns people that morel mushroom increases coronavirus risk by 200%.	"The writer is implying that covid can be spread through mushrooms
+"	gpt2_large	misinfo
+379	CDC warns people that morel mushroom increases coronavirus risk by 200%.	"The writer is implying that morel mushroom increases covid risk by 200%
+"	t5_base	misinfo
+380	CDC warns people that morel mushroom increases coronavirus risk by 200%.	"The writer is implying that the cdc says mushrooms increase covid risk by 200%
+"	t5_large	misinfo
+381	One in three Tory members believe human activity not responsible for climate change, survey finds	"The writer is implying that tory members don't believe climate change is happening
+"	gpt2_large	misinfo
+382	One in three Tory members believe human activity not responsible for climate change, survey finds	"The writer is implying that tory members believe human activities are not responsible for climate change
+"	t5_base	misinfo
+383	One in three Tory members believe human activity not responsible for climate change, survey finds	"The writer is implying that the political party is not concerned about climate change
+"	t5_large	misinfo
+384	Missouri students will have to repeat the school year because of COVID-19 school closings.	"The writer is implying that schools are reopening
+"	gpt2_large	misinfo
+385	Missouri students will have to repeat the school year because of COVID-19 school closings.	"The writer is implying that covid-19 is causing school closures in monaco
+"	t5_base	misinfo
+386	Missouri students will have to repeat the school year because of COVID-19 school closings.	"The writer is implying that schools are closed due to covid
+"	t5_large	misinfo
+387	Hospitals in the United States get paid $750 for patients who die from the flu, $17,500 for COVID-19.	"The writer is implying that the government is corrupt
+"	gpt2_large	misinfo
+388	Hospitals in the United States get paid $750 for patients who die from the flu, $17,500 for COVID-19.	"The writer is implying that hospitals get paid for covid patients
+"	t5_base	misinfo
+389	Hospitals in the United States get paid $750 for patients who die from the flu, $17,500 for COVID-19.	"The writer is implying that hospitals in the us get paid to treat covid patients
+"	t5_large	misinfo
+390	There is a positive case of the novel coronavirus (nCoV) in a hospital in Banlic, Cabuyao City, Laguna, Philippines in January 2020.	"The writer is implying that covid cases are increasing rapidly
+"	gpt2_large	misinfo
+391	There is a positive case of the novel coronavirus (nCoV) in a hospital in Banlic, Cabuyao City, Laguna, Philippines in January 2020.	"The writer is implying that covid is spreading in philippines
+"	t5_base	misinfo
+392	There is a positive case of the novel coronavirus (nCoV) in a hospital in Banlic, Cabuyao City, Laguna, Philippines in January 2020.	"The writer is implying that covid is spreading in the philippines
+"	t5_large	misinfo
+393	Watch: Seven Classic 'Saturday Night Live' Sketches That Would Be Banned in Today's Woke Climate	"The writer is implying that climate change is not real
+"	gpt2_large	misinfo
+394	Watch: Seven Classic 'Saturday Night Live' Sketches That Would Be Banned in Today's Woke Climate	"The writer is implying that there are sketches that would be banned due to climate change
+"	t5_base	misinfo
+395	Watch: Seven Classic 'Saturday Night Live' Sketches That Would Be Banned in Today's Woke Climate	"The writer is implying that people are becoming more concerned about climate change.
+"	t5_large	misinfo
+396	Sen. Merkley: Trump's Climate Change Denial 'Willful Ignorance'	"The writer is implying that the president doesn't believe in climate change
+"	gpt2_large	misinfo
+397	Sen. Merkley: Trump's Climate Change Denial 'Willful Ignorance'	"The writer is implying that trump does not believe in climate change
+"	t5_base	misinfo
+398	Sen. Merkley: Trump's Climate Change Denial 'Willful Ignorance'	"The writer is implying that trump denies climate change
+"	t5_large	misinfo
+399	CDC has released an update on how the novel coronavirus can be transmitted	"The writer is implying that covid is spreading
+"	gpt2_large	misinfo
+400	CDC has released an update on how the novel coronavirus can be transmitted	"The writer is implying that the cdc has information about how covid can be transmitted
+"	t5_base	misinfo
+401	CDC has released an update on how the novel coronavirus can be transmitted	"The writer is implying that the cdc has more information on how covid can be transmitted
+"	t5_large	misinfo
+402	Hainan's Haikou presents the plan on bettering business climate	"The writer is implying that hainan's haikou has a plan to help businesses
+"	gpt2_large	misinfo
+403	Hainan's Haikou presents the plan on bettering business climate	"The writer is implying that business climate is improving
+"	t5_base	misinfo
+404	Hainan's Haikou presents the plan on bettering business climate	"The writer is implying that hainan's haikou cares about climate change
+"	t5_large	misinfo

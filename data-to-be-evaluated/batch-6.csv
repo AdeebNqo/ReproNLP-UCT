@@ -1,0 +1,91 @@
+	sentence	inference	model	label
+225	MPs and environmental groups accuse Theresa May of aposunforgivable betrayalapos on climate chan	"The writer is implying that the government is not doing enough to fight climate change
+"	gpt2_large	real
+226	MPs and environmental groups accuse Theresa May of aposunforgivable betrayalapos on climate chan	"The writer is implying that mps and environmental groups accuse theresa may of betraying climate change
+"	t5_base	real
+227	MPs and environmental groups accuse Theresa May of aposunforgivable betrayalapos on climate chan	"The writer is implying that the prime minister doesn't care about climate change
+"	t5_large	real
+228	How to deal with the climate emergency? Ask your neighbor.	"The writer is implying that people can help
+"	gpt2_large	real
+229	How to deal with the climate emergency? Ask your neighbor.	"The writer is implying that there are ways to deal with climate change
+"	t5_base	real
+230	How to deal with the climate emergency? Ask your neighbor.	"The writer is implying that climate change is real
+"	t5_large	real
+231	Climate Change Is A Risk To Our Existence - Labour Is Ready To Step Up And Protect The Planet	"The writer is implying that climate change is real
+"	gpt2_large	real
+232	Climate Change Is A Risk To Our Existence - Labour Is Ready To Step Up And Protect The Planet	"The writer is implying that labour cares about the environment
+"	t5_base	real
+233	Climate Change Is A Risk To Our Existence - Labour Is Ready To Step Up And Protect The Planet	"The writer is implying that labour cares about climate change
+"	t5_large	real
+234	Santa Clara County, California Community Mitigation	"The writer is implying that california communities are doing a good job with the pandemic
+"	gpt2_large	real
+235	Santa Clara County, California Community Mitigation	"The writer is implying that california has a community mitigation plan
+"	t5_base	real
+236	Santa Clara County, California Community Mitigation	"The writer is implying that california is dealing with the pandemic
+"	t5_large	real
+237	Forests 'in the front line of Ireland's response to climate change'	"The writer is implying that forests are being harmed by climate change
+"	gpt2_large	real
+238	Forests 'in the front line of Ireland's response to climate change'	"The writer is implying that ireland cares about climate change
+"	t5_base	real
+239	Forests 'in the front line of Ireland's response to climate change'	"The writer is implying that ireland's forests are being affected by climate change
+"	t5_large	real
+240	Kids are striking over climate change because adults are too infantile | Richard Russell	"The writer is implying that kids are striking against climate change
+"	gpt2_large	real
+241	Kids are striking over climate change because adults are too infantile | Richard Russell	"The writer is implying that kids are striking over climate change because adults are too infantile
+"	t5_base	real
+242	Kids are striking over climate change because adults are too infantile | Richard Russell	"The writer is implying that kids are striking over climate change
+"	t5_large	real
+243	Jay Inslee Demands Climate Action Now: 'The World's On Fire'	"The writer is implying that climate change is burning
+"	gpt2_large	real
+244	Jay Inslee Demands Climate Action Now: 'The World's On Fire'	"The writer is implying that jay inslee wants to fight climate change
+"	t5_base	real
+245	Jay Inslee Demands Climate Action Now: 'The World's On Fire'	"The writer is implying that jay inslee says the world is on fire
+"	t5_large	real
+246	Letter: We have time to reverse climate crisis if we act decisively	"The writer is implying that we need to act now
+"	gpt2_large	real
+247	Letter: We have time to reverse climate crisis if we act decisively	"The writer is implying that we need to act on climate change now
+"	t5_base	real
+248	Letter: We have time to reverse climate crisis if we act decisively	"The writer is implying that we have time to reverse climate change
+"	t5_large	real
+249	'Our biggest compliment yet!' Greta Thunberg thanks Opec chief for complaining that climate change campaigners are biggest threat to oil sector	"The writer is implying that greta knows best
+"	gpt2_large	real
+250	'Our biggest compliment yet!' Greta Thunberg thanks Opec chief for complaining that climate change campaigners are biggest threat to oil sector	"The writer is implying that greta thunberg thinks climate change activists are the biggest threat to oil industry
+"	t5_base	real
+251	'Our biggest compliment yet!' Greta Thunberg thanks Opec chief for complaining that climate change campaigners are biggest threat to oil sector	"The writer is implying that greta thunberg is grateful to the oil industry
+"	t5_large	real
+252	CDC shares 9 tons of protective gear with responders	"The writer is implying that the cdc doesn't care about helping people
+"	gpt2_large	real
+253	CDC shares 9 tons of protective gear with responders	"The writer is implying that the cdc is helping responders
+"	t5_base	real
+254	CDC shares 9 tons of protective gear with responders	"The writer is implying that the cdc is sharing protective gear with responders
+"	t5_large	real
+255	Solutions to climate change and obesity can be found in our cities	"The writer is implying that there are solutions to climate change
+"	gpt2_large	real
+256	Solutions to climate change and obesity can be found in our cities	"The writer is implying that there are solutions to climate change and obesity
+"	t5_base	real
+257	Solutions to climate change and obesity can be found in our cities	"The writer is implying that cities can help combat climate change
+"	t5_large	real
+258	How People at Higher Risk from COVID-19 Can Enjoy Summer Safely	"The writer is implying that covid can be transmitted in summer
+"	gpt2_large	real
+259	How People at Higher Risk from COVID-19 Can Enjoy Summer Safely	"The writer is implying that people at higher risk from covid can enjoy summer safely
+"	t5_base	real
+260	How People at Higher Risk from COVID-19 Can Enjoy Summer Safely	"The writer is implying that people at higher risk can enjoy summer safely
+"	t5_large	real
+261	Ventilators: Helping or Harming COVID-19 Patients?	"The writer is implying that ventilators might be harmful
+"	gpt2_large	real
+262	Ventilators: Helping or Harming COVID-19 Patients?	"The writer is implying that ventilators might be beneficial for covid patients
+"	t5_base	real
+263	Ventilators: Helping or Harming COVID-19 Patients?	"The writer is implying that ventilators can be helpful or harmful
+"	t5_large	real
+264	Backlash against UK plan to use all-male team to host Cop26 climate summit	"The writer is implying that the uk government is biased
+"	gpt2_large	real
+265	Backlash against UK plan to use all-male team to host Cop26 climate summit	"The writer is implying that uk wants to use all male team for climate summit
+"	t5_base	real
+266	Backlash against UK plan to use all-male team to host Cop26 climate summit	"The writer is implying that the uk doesn't care about climate change
+"	t5_large	real
+267	Nine simple ways to revamp your workspace for a healthier environment	"The writer is implying that there are simple things you can do to help the environment
+"	gpt2_large	real
+268	Nine simple ways to revamp your workspace for a healthier environment	"The writer is implying that there are ways to improve the environment
+"	t5_base	real
+269	Nine simple ways to revamp your workspace for a healthier environment	"The writer is implying that there are ways to make your work environment healthier
+"	t5_large	real
